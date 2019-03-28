@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <cmath>
 using namespace std;
 
 int main(){
@@ -7,13 +7,13 @@ int main(){
 	int a[101];
 	cin>>n>>m;
 	cin>>a[0];
-	max = a[0];
+	max = ceil((double)a[0]/m);
 	maxi=0;
 	for (int i = 1; i < n; ++i){
 		cin>>a[i];
-		if (a[i]>=max){
+		if (ceil((double)a[i]/m)>=max){
 			maxi = i;
-			max = a[i];
+			max = ceil((double)a[i]/m);
 		}
 	}
 	
