@@ -1,0 +1,1 @@
+freopen("filename", "mode", stdin)
