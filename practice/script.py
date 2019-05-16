@@ -1,3 +1,4 @@
+# The script i made to extract the problems and their URLs from the csv file
 import csv
 
 # Reading problems from csv file
