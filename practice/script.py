@@ -14,7 +14,7 @@ for problem in dataset:
     if problem[1][:2] == "CF":
         # Extracting the problem information
         problemID = problem[1][2:]
-        contest_id, problem_id = problemID.split("-")[0], problemID.split("-")[1]
+        contest_id, problem_id = problemID.split("-")[0], problemID.split("-")[2]
 
         # Constructing the URL
         url = "http://codeforces.com/contest/"+str(contest_id)+"/problem/"+str(problem_id)
