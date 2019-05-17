@@ -23,7 +23,9 @@ def update(id, status, lang, count, notes):
         dir = "PY"
 
     if status == "AC":
-        url = "../Code&#32;Forces/"+dir+"/"+problem[0]+"."+lang.lower()
+        file_name = "%20".join(problem[0].split(" "))
+        print(file_name)
+        url = "../Code&#32;Forces/"+dir+"/"+file_name+"."+lang.lower()
         problem[2] = "[✔️]("+url+")"
 
 def update_file():
@@ -32,10 +34,12 @@ def update_file():
     file.write("## CodeForces A - Div2. problems for practicing\n")
     file.write("| # | Problem  | Status | Submission Count | Notes |\n")
     file.write("| --- | --- | --- | --- | --- |\n")
-    
+
     for i in range(len(problems)):
         line = "| "+str(i)+" | A - ["+problems[i][0]+"]("+problems[i][1]+") | "+problems[i][2]+" | "+problems[i][3]+" | "+problems[i][4]+" |\n"
         file.write(line)
 
 update(id, status, lang, count, notes)
 update_file()
+with open("problems.js", "w") as problems_file:
+    json.dump(problems, problems_file)

@@ -1,8 +1,8 @@
 ## CodeForces A - Div2. problems for practicing
 | # | Problem  | Status | Submission Count | Notes |
 | --- | --- | --- | --- | --- |
-| 0 | A - [Vanya and Fence](http://codeforces.com/contest/677/problem/A) | :x: | - | - |
-| 1 | A - [Anton and Danik](http://codeforces.com/contest/734/problem/A) | [✔️](../Code&#32;Forces/CPP/Anton and Danik.cpp) | 1 | Solved on first submission |
+| 0 | A - [Vanya and Fence](http://codeforces.com/contest/677/problem/A) | [✔️](../Code&#32;Forces/CPP/Vanya%20and%20Fence.cpp) | 1 | Solved on first try :) |
+| 1 | A - [Anton and Danik](http://codeforces.com/contest/734/problem/A) | [✔️](../Code&#32;Forces/CPP/Anton%20and%20Danik.cpp) | 1 | Solved on first try :) |
 | 2 | A - [Bear and Big Brother](http://codeforces.com/contest/791/problem/A) | :x: | - | - |
 | 3 | A - [Team](http://codeforces.com/contest/231/problem/A) | :x: | - | - |
 | 4 | A - [Beautiful Matrix](http://codeforces.com/contest/263/problem/A) | :x: | - | - |
