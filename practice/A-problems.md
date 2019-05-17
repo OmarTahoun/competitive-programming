@@ -1,7 +1,7 @@
 ## CodeForces A - Div2. problems for practicing
 | # | Problem  | Status | Submission Count | Notes |
 | --- | --- | --- | --- | --- |
-| 0 | A - [Vanya and Fence](http://codeforces.com/contest/677/problem/D2) | :x: | - | - |
+| 0 | A - [Vanya and Fence](http://codeforces.com/contest/677/problem/D2) | [:✔️:](Code Forces/CPP/gnome.cpp) | - | - |
 | 1 | A - [Anton and Danik](http://codeforces.com/contest/734/problem/D2) | :x: | - | - |
 | 2 | A - [Bear and Big Brother](http://codeforces.com/contest/791/problem/D2) | :x: | - | - |
 | 3 | A - [Team](http://codeforces.com/contest/231/problem/D2) | :x: | - | - |
