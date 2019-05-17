@@ -1,5 +1,6 @@
 # The script i made to extract the problems and their URLs from the csv file
 import csv
+import json
 
 # Reading problems from csv file
 with open("A-problems.csv", 'r') as data:
@@ -17,9 +18,10 @@ for problem in dataset:
 
         # Constructing the URL
         url = "http://codeforces.com/contest/"+str(contest_id)+"/problem/"+str(problem_id)
-        problems.append([problem[0], url])
+        problems.append([problem[0], url, ":x:","-","-"])
 
-
+with open("problems.js", "w") as problems_file:
+    json.dump(problems, problems_file)
 # Writting the Data to the MarkDown file
 file = open("A-problems.md", "a")
 for i in range(len(problems)):
