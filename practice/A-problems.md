@@ -7,8 +7,8 @@
 | 3 | A - [Team](http://codeforces.com/contest/231/problem/A) | [✔️](../Code&#32;Forces/CPP/Team.cpp) | 1 | Solved on first submission :) |
 | 4 | A - [Beautiful Matrix](http://codeforces.com/contest/263/problem/A) | [✔️](../Code&#32;Forces/CPP/Beautiful%20Matrix.cpp) | 1 | I liked this problem, Solved on first submission :D |
 | 5 | A - [Gravity Flip](http://codeforces.com/contest/405/problem/A) | [✔️](../Code&#32;Forces/CPP/Gravity%20Flip.cpp) | 1 | Solved on first submission :) |
-| 6 | A - [Petya and Strings](http://codeforces.com/contest/112/problem/A) | :x: | - | - |
-| 7 | A - [Boy or Girl](http://codeforces.com/contest/236/problem/A) | :x: | - | - |
+| 6 | A - [Petya and Strings](http://codeforces.com/contest/112/problem/A) | [✔️](../Code&#32;Forces/CPP/Petya%20and%20Strings.cpp) | 2 | Made a silly mistake, simple question |
+| 7 | A - [Boy or Girl](http://codeforces.com/contest/236/problem/A) | [✔️](../Code&#32;Forces/CPP/Boy%20or%20Girl.cpp) | 1 | Solved on first submission :) |
 | 8 | A - [Word](http://codeforces.com/contest/59/problem/A) | :x: | - | - |
 | 9 | A - [Word Capitalization](http://codeforces.com/contest/281/problem/A) | :x: | - | - |
 | 10 | A - [Magnets](http://codeforces.com/contest/344/problem/A) | :x: | - | - |
