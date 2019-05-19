@@ -9,9 +9,9 @@
 | 5 | A - [Gravity Flip](http://codeforces.com/contest/405/problem/A) | [✔️](../Code&#32;Forces/CPP/Gravity%20Flip.cpp) | 1 | Solved on first submission :) |
 | 6 | A - [Petya and Strings](http://codeforces.com/contest/112/problem/A) | [✔️](../Code&#32;Forces/CPP/Petya%20and%20Strings.cpp) | 2 | Made a silly mistake, simple question |
 | 7 | A - [Boy or Girl](http://codeforces.com/contest/236/problem/A) | [✔️](../Code&#32;Forces/CPP/Boy%20or%20Girl.cpp) | 1 | Solved on first submission :) |
-| 8 | A - [Word](http://codeforces.com/contest/59/problem/A) | :x: | - | - |
-| 9 | A - [Word Capitalization](http://codeforces.com/contest/281/problem/A) | :x: | - | - |
-| 10 | A - [Magnets](http://codeforces.com/contest/344/problem/A) | :x: | - | - |
+| 8 | A - [Word](http://codeforces.com/contest/59/problem/A) | [✔️](../Code&#32;Forces/CPP/Word.cpp) | 1 | Simple implementation |
+| 9 | A - [Word Capitalization](http://codeforces.com/contest/281/problem/A) | [✔️](../Code&#32;Forces/CPP/Word%20Capitalization.cpp) | 1 | Simple implementation |
+| 10 | A - [Magnets](http://codeforces.com/contest/344/problem/A) | [✔️](../Code&#32;Forces/CPP/Magnets.cpp) | 1 | nice question, simple implementation :) |
 | 11 | A - [Sereja and Dima](http://codeforces.com/contest/381/problem/A) | :x: | - | - |
 | 12 | A - [Stones on the Table](http://codeforces.com/contest/266/problem/A) | :x: | - | - |
 | 13 | A - [Police Recruits](http://codeforces.com/contest/427/problem/A) | :x: | - | - |
