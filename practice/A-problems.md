@@ -25,8 +25,8 @@
 | 21 | A - [Shaass and Oskols](http://codeforces.com/contest/294/problem/A) | :x: | - | - |
 | 22 | A - [Juicer](http://codeforces.com/contest/709/problem/A) | :x: | - | - |
 | 23 | A - [Carrot Cakes](http://codeforces.com/contest/799/problem/A) | :x: | - | - |
-| 24 | A - [Anton and Letters](http://codeforces.com/contest/443/problem/A) | :x: | - | - |
-| 25 | A - [Way Too Long Words](http://codeforces.com/contest/71/problem/A) | :x: | - | - |
+| 24 | A - [Anton and Letters](http://codeforces.com/contest/443/problem/A) | [✔️](../Code&#32;Forces/CPP/Anton%20and%20Letters.cpp) | 1 | Simple implementation,  had a look at sets :| |
+| 25 | A - [Way Too Long Words](http://codeforces.com/contest/71/problem/A) | [✔️](../Code&#32;Forces/CPP/Way%20Too%20Long%20Words.cpp) | 1 | Simple Implementation :) |
 | 26 | A - [Free Ice Cream](http://codeforces.com/contest/686/problem/A) | :x: | - | - |
 | 27 | A - [Helpful Maths](http://codeforces.com/contest/339/problem/A) | :x: | - | - |
 | 28 | A - [Team Olympiad](http://codeforces.com/contest/490/problem/A) | :x: | - | - |
