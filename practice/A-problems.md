@@ -16,7 +16,7 @@
 | 12 | A - [Stones on the Table](http://codeforces.com/contest/266/problem/A) | [✔️](../Code&#32;Forces/CPP/Stones%20on%20the%20Table.cpp) | 1 | cool question, simple implementation :) |
 | 13 | A - [Police Recruits](http://codeforces.com/contest/427/problem/A) | [✔️](../Code&#32;Forces/CPP/Police%20Recruits.cpp) | 1 | nice idea, simple implementation :) |
 | 14 | A - [Black Square](http://codeforces.com/contest/431/problem/A) | [✔️](../Code&#32;Forces/CPP/Black%20Square.cpp) | 1 | Nice question i liked it :D |
-| 15 | A - [Night at the Museum](http://codeforces.com/contest/731/problem/A) | :x: | - | - |
+| 15 | A - [Night at the Museum](http://codeforces.com/contest/731/problem/A) | [✔️](../Code&#32;Forces/CPP/Night%20at%20the%20Museum.cpp) | 1 | Simple implementation |
 | 16 | A - [Games](http://codeforces.com/contest/268/problem/A) | :x: | - | - |
 | 17 | A - [Buy a Shovel](http://codeforces.com/contest/732/problem/A) | :x: | - | - |
 | 18 | A - [Is your horseshoe on the other hoof?](http://codeforces.com/contest/228/problem/A) | :x: | - | - |
