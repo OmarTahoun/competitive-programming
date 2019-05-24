@@ -17,9 +17,9 @@
 | 13 | A - [Police Recruits](http://codeforces.com/contest/427/problem/A) | [✔️](../Code&#32;Forces/CPP/Police%20Recruits.cpp) | 1 | nice idea, simple implementation :) |
 | 14 | A - [Black Square](http://codeforces.com/contest/431/problem/A) | [✔️](../Code&#32;Forces/CPP/Black%20Square.cpp) | 1 | Nice question i liked it :D |
 | 15 | A - [Night at the Museum](http://codeforces.com/contest/731/problem/A) | [✔️](../Code&#32;Forces/CPP/Night%20at%20the%20Museum.cpp) | 1 | Simple implementation |
-| 16 | A - [Games](http://codeforces.com/contest/268/problem/A) | :x: | - | - |
-| 17 | A - [Buy a Shovel](http://codeforces.com/contest/732/problem/A) | :x: | - | - |
-| 18 | A - [Is your horseshoe on the other hoof?](http://codeforces.com/contest/228/problem/A) | :x: | - | - |
+| 16 | A - [Games](http://codeforces.com/contest/268/problem/A) | [✔️](../Code&#32;Forces/CPP/Games.cpp) | 2 | Nice Question :), Was trying a wrong approach in the beggining >:( |
+| 17 | A - [Buy a Shovel](http://codeforces.com/contest/732/problem/A) | [✔️](../Code&#32;Forces/CPP/Buy%20a%20Shovel.cpp) | 1 | I liked solving it, Simple implementation :D |
+| 18 | A - [Is your horseshoe on the other hoof?](http://codeforces.com/contest/228/problem/A) | [✔️](../Code&#32;Forces/CPP/Is%20your%20horseshoe%20on%20the%20other%20hoof?.cpp) | 1 | Simple implementation, Different solution :D |
 | 19 | A - [Colorful Stones (Simplified Edition)](http://codeforces.com/contest/265/problem/A) | :x: | - | - |
 | 20 | A - [Die Roll](http://codeforces.com/contest/9/problem/A) | :x: | - | - |
 | 21 | A - [Shaass and Oskols](http://codeforces.com/contest/294/problem/A) | :x: | - | - |
