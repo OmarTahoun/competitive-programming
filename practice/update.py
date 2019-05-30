@@ -1,12 +1,7 @@
 import json
-
-with open("problems.js", "r") as f:
-    problems = json.load(f)
-
-id, status, lang, count, notes = input().split("/")
+import argparse
 
 def update(id, status, lang, count, notes):
-
     id = id.strip()
     status = status.strip()
     count = count.strip()
@@ -39,7 +34,22 @@ def update_file():
         line = "| "+str(i)+" | A - ["+problems[i][0]+"]("+problems[i][1]+") | "+problems[i][2]+" | "+problems[i][3]+" | "+problems[i][4]+" |\n"
         file.write(line)
 
-update(id, status, lang, count, notes)
-update_file()
-with open("problems.js", "w") as problems_file:
-    json.dump(problems, problems_file)
+
+def main():
+    parser = argparse.ArgumentParser(description="testing")
+    parser.add_argument('-id', dest="id", help = "the id of the problem to update", type = str, required=True)
+    parser.add_argument('-s', dest="status", help = "the Status of the problem AC", type = str, required=True)
+    parser.add_argument('-l', dest="lang", help = "the Language the problem was solved with", type = str, required=True)
+    parser.add_argument('-c', dest="count", help = "Number of submissions it took to solve the problem", type = str, required=True)
+    parser.add_argument('-m', dest="notes", help = "Notes on the submission", type = str, required=True)
+    args = parser.parse_args()
+
+    update(args.id, args.status, args.lang, args.count, args.notes)
+    update_file()
+    with open("problems.js", "w") as problems_file:
+        json.dump(problems, problems_file)
+
+if __name__ == '__main__':
+    with open("problems.js", "r") as f:
+        problems = json.load(f)
+    main()
