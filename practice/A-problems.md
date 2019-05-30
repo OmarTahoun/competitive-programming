@@ -19,12 +19,12 @@
 | 15 | A - [Night at the Museum](http://codeforces.com/contest/731/problem/A) | [✔️](../Code&#32;Forces/CPP/Night%20at%20the%20Museum.cpp) | 1 | Simple implementation |
 | 16 | A - [Games](http://codeforces.com/contest/268/problem/A) | [✔️](../Code&#32;Forces/CPP/Games.cpp) | 2 | Nice Question :), Was trying a wrong approach in the beggining >:( |
 | 17 | A - [Buy a Shovel](http://codeforces.com/contest/732/problem/A) | [✔️](../Code&#32;Forces/CPP/Buy%20a%20Shovel.cpp) | 1 | I liked solving it, Simple implementation :D |
-| 18 | A - [Is your horseshoe on the other hoof?](http://codeforces.com/contest/228/problem/A) | [✔️](../Code&#32;Forces/CPP/Is%20your%20horseshoe%20on%20the%20other%20hoof%3F.cpp) | 1 | Simple implementation, Different solution :D |
+| 18 | A - [Is your horseshoe on the other hoof?](http://codeforces.com/contest/228/problem/A) | [✔️](../Code&#32;Forces/CPP/Is%20your%20horseshoe%20on%20the%20other%20hoof?.cpp) | 1 | Simple implementation, Different solution :D |
 | 19 | A - [Colorful Stones (Simplified Edition)](http://codeforces.com/contest/265/problem/A) | :x: | - | - |
 | 20 | A - [Die Roll](http://codeforces.com/contest/9/problem/A) | :x: | - | - |
 | 21 | A - [Shaass and Oskols](http://codeforces.com/contest/294/problem/A) | :x: | - | - |
-| 22 | A - [Juicer](http://codeforces.com/contest/709/problem/A) | :x: | - | - |
-| 23 | A - [Carrot Cakes](http://codeforces.com/contest/799/problem/A) | :x: | - | - |
+| 22 | A - [Juicer](http://codeforces.com/contest/709/problem/A) | [✔️](../Code&#32;Forces/CPP/Juicer.cpp) | 1 | Simple implementation nice question :D |
+| 23 | A - [Carrot Cakes](http://codeforces.com/contest/799/problem/A) | [✔️](../Code&#32;Forces/CPP/Carrot%20Cakes.cpp) | 1 | Nice Question, Implemented with brute force. :) |
 | 24 | A - [Anton and Letters](http://codeforces.com/contest/443/problem/A) | [✔️](../Code&#32;Forces/CPP/Anton%20and%20Letters.cpp) | 1 | Simple implementation,  had a look at sets :| |
 | 25 | A - [Way Too Long Words](http://codeforces.com/contest/71/problem/A) | [✔️](../Code&#32;Forces/CPP/Way%20Too%20Long%20Words.cpp) | 1 | Simple Implementation :) |
 | 26 | A - [Free Ice Cream](http://codeforces.com/contest/686/problem/A) | :x: | - | - |
