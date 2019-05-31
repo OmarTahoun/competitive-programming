@@ -20,7 +20,7 @@
 | 16 | A - [Games](http://codeforces.com/contest/268/problem/A) | [✔️](../Code&#32;Forces/CPP/Games.cpp) | 2 | Nice Question :), Was trying a wrong approach in the beggining >:( |
 | 17 | A - [Buy a Shovel](http://codeforces.com/contest/732/problem/A) | [✔️](../Code&#32;Forces/CPP/Buy%20a%20Shovel.cpp) | 1 | I liked solving it, Simple implementation :D |
 | 18 | A - [Is your horseshoe on the other hoof?](http://codeforces.com/contest/228/problem/A) | [✔️](../Code&#32;Forces/CPP/Is%20your%20horseshoe%20on%20the%20other%20hoof?.cpp) | 1 | Simple implementation, Different solution :D |
-| 19 | A - [Colorful Stones (Simplified Edition)](http://codeforces.com/contest/265/problem/A) | :x: | - | - |
+| 19 | A - [Colorful Stones (Simplified Edition)](http://codeforces.com/contest/265/problem/A) | [✔️](../Code&#32;Forces/CPP/Colorful%20Stones%20(Simplified%20Edition).cpp) | 1 | Simple implementation :) |
 | 20 | A - [Die Roll](http://codeforces.com/contest/9/problem/A) | [✔️](../Code&#32;Forces/CPP/Die%20Roll.cpp) | 1 | Easy question simple implementation |
 | 21 | A - [Shaass and Oskols](http://codeforces.com/contest/294/problem/A) | [✔️](../Code&#32;Forces/CPP/Shaass%20and%20Oskols.cpp) | 2 | Forgot the debugging code in the submitted code, Easy implementation :) |
 | 22 | A - [Juicer](http://codeforces.com/contest/709/problem/A) | [✔️](../Code&#32;Forces/CPP/Juicer.cpp) | 1 | Simple implementation nice question :D |
