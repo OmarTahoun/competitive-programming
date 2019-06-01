@@ -30,8 +30,8 @@
 | 26 | A - [Free Ice Cream](http://codeforces.com/contest/686/problem/A) | [✔️](../Code&#32;Forces/CPP/Free%20Ice%20Cream.cpp) | 1 | Simple question, int over flow :| |
 | 27 | A - [Helpful Maths](http://codeforces.com/contest/339/problem/A) | [✔️](../Code&#32;Forces/PY/Helpful%20Maths.py) | 1 | Very simple question :D |
 | 28 | A - [Team Olympiad](http://codeforces.com/contest/490/problem/A) | [✔️](../Code&#32;Forces/CPP/Team%20Olympiad.cpp) | 1 | nice question simple implementing :) |
-| 29 | A - [New Password](http://codeforces.com/contest/770/problem/A) | :x: | - | - |
-| 30 | A - [Presents](http://codeforces.com/contest/136/problem/A) | :x: | - | - |
+| 29 | A - [New Password](http://codeforces.com/contest/770/problem/A) | [✔️](../Code&#32;Forces/CPP/New%20Password.cpp) | 1 | A bit tricky, had to check the tutorial :| |
+| 30 | A - [Presents](http://codeforces.com/contest/136/problem/A) | [✔️](../Code&#32;Forces/CPP/Presents.cpp) | 1 | Nice and simple implementation |
 | 31 | A - [Lineland Mail](http://codeforces.com/contest/567/problem/A) | :x: | - | - |
 | 32 | A - [Mahmoud and Longest Uncommon Subsequence](http://codeforces.com/contest/766/problem/A) | :x: | - | - |
 | 33 | A - [Snacktower](http://codeforces.com/contest/767/problem/A) | :x: | - | - |
