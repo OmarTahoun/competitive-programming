@@ -27,9 +27,9 @@
 | 23 | A - [Carrot Cakes](http://codeforces.com/contest/799/problem/A) | [✔️](../Code&#32;Forces/CPP/Carrot%20Cakes.cpp) | 1 | Nice Question, Implemented with brute force. :) |
 | 24 | A - [Anton and Letters](http://codeforces.com/contest/443/problem/A) | [✔️](../Code&#32;Forces/CPP/Anton%20and%20Letters.cpp) | 1 | Simple implementation,  had a look at sets :| |
 | 25 | A - [Way Too Long Words](http://codeforces.com/contest/71/problem/A) | [✔️](../Code&#32;Forces/CPP/Way%20Too%20Long%20Words.cpp) | 1 | Simple Implementation :) |
-| 26 | A - [Free Ice Cream](http://codeforces.com/contest/686/problem/A) | :x: | - | - |
-| 27 | A - [Helpful Maths](http://codeforces.com/contest/339/problem/A) | :x: | - | - |
-| 28 | A - [Team Olympiad](http://codeforces.com/contest/490/problem/A) | :x: | - | - |
+| 26 | A - [Free Ice Cream](http://codeforces.com/contest/686/problem/A) | [✔️](../Code&#32;Forces/CPP/Free%20Ice%20Cream.cpp) | 1 | Simple question, int over flow :| |
+| 27 | A - [Helpful Maths](http://codeforces.com/contest/339/problem/A) | [✔️](../Code&#32;Forces/PY/Helpful%20Maths.py) | 1 | Very simple question :D |
+| 28 | A - [Team Olympiad](http://codeforces.com/contest/490/problem/A) | [✔️](../Code&#32;Forces/CPP/Team%20Olympiad.cpp) | 1 | nice question simple implementing :) |
 | 29 | A - [New Password](http://codeforces.com/contest/770/problem/A) | :x: | - | - |
 | 30 | A - [Presents](http://codeforces.com/contest/136/problem/A) | :x: | - | - |
 | 31 | A - [Lineland Mail](http://codeforces.com/contest/567/problem/A) | :x: | - | - |
