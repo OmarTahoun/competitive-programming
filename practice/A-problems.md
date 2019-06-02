@@ -32,8 +32,8 @@
 | 28 | A - [Team Olympiad](http://codeforces.com/contest/490/problem/A) | [✔️](../Code&#32;Forces/CPP/Team%20Olympiad.cpp) | 1 | nice question simple implementing :) |
 | 29 | A - [New Password](http://codeforces.com/contest/770/problem/A) | [✔️](../Code&#32;Forces/CPP/New%20Password.cpp) | 1 | A bit tricky, had to check the tutorial :| |
 | 30 | A - [Presents](http://codeforces.com/contest/136/problem/A) | [✔️](../Code&#32;Forces/CPP/Presents.cpp) | 1 | Nice and simple implementation |
-| 31 | A - [Lineland Mail](http://codeforces.com/contest/567/problem/A) | :x: | - | - |
-| 32 | A - [Mahmoud and Longest Uncommon Subsequence](http://codeforces.com/contest/766/problem/A) | :x: | - | - |
+| 31 | A - [Lineland Mail](http://codeforces.com/contest/567/problem/A) | [✔️](../Code&#32;Forces/CPP/Lineland%20Mail.cpp) | 1 | Nice question :D |
+| 32 | A - [Mahmoud and Longest Uncommon Subsequence](http://codeforces.com/contest/766/problem/A) | [✔️](../Code&#32;Forces/CPP/Mahmoud%20and%20Longest%20Uncommon%20Subsequence.cpp) | 2 | Had to check the editorial, Simple solution :( |
 | 33 | A - [Snacktower](http://codeforces.com/contest/767/problem/A) | :x: | - | - |
 | 34 | A - [Oath of the Night's Watch](http://codeforces.com/contest/768/problem/A) | :x: | - | - |
 | 35 | A - [Next Round](http://codeforces.com/contest/158/problem/A) | :x: | - | - |
