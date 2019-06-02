@@ -34,7 +34,7 @@
 | 30 | A - [Presents](http://codeforces.com/contest/136/problem/A) | [✔️](../Code&#32;Forces/CPP/Presents.cpp) | 1 | Nice and simple implementation |
 | 31 | A - [Lineland Mail](http://codeforces.com/contest/567/problem/A) | [✔️](../Code&#32;Forces/CPP/Lineland%20Mail.cpp) | 1 | Nice question :D |
 | 32 | A - [Mahmoud and Longest Uncommon Subsequence](http://codeforces.com/contest/766/problem/A) | [✔️](../Code&#32;Forces/CPP/Mahmoud%20and%20Longest%20Uncommon%20Subsequence.cpp) | 2 | Had to check the editorial, Simple solution :( |
-| 33 | A - [Snacktower](http://codeforces.com/contest/767/problem/A) | :x: | - | - |
+| 33 | A - [Snacktower](http://codeforces.com/contest/767/problem/A) | [✔️](../Code&#32;Forces/CPP/Snacktower.cpp) | 4 | Simple implementation, quite tricy to grasp... I wasn't concentrating. PS: Python is fucked up |
 | 34 | A - [Oath of the Night's Watch](http://codeforces.com/contest/768/problem/A) | :x: | - | - |
 | 35 | A - [Next Round](http://codeforces.com/contest/158/problem/A) | :x: | - | - |
 | 36 | A - [Bit++](http://codeforces.com/contest/282/problem/A) | :x: | - | - |
