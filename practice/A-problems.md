@@ -35,13 +35,13 @@
 | 31 | A - [Lineland Mail](http://codeforces.com/contest/567/problem/A) | [✔️](../Code&#32;Forces/CPP/Lineland%20Mail.cpp) | 1 | Nice question :D |
 | 32 | A - [Mahmoud and Longest Uncommon Subsequence](http://codeforces.com/contest/766/problem/A) | [✔️](../Code&#32;Forces/CPP/Mahmoud%20and%20Longest%20Uncommon%20Subsequence.cpp) | 2 | Had to check the editorial, Simple solution :( |
 | 33 | A - [Snacktower](http://codeforces.com/contest/767/problem/A) | [✔️](../Code&#32;Forces/CPP/Snacktower.cpp) | 4 | Simple implementation, quite tricy to grasp... I wasn't concentrating. PS: Python is fucked up |
-| 34 | A - [Oath of the Night's Watch](http://codeforces.com/contest/768/problem/A) | :x: | - | - |
-| 35 | A - [Next Round](http://codeforces.com/contest/158/problem/A) | :x: | - | - |
-| 36 | A - [Bit++](http://codeforces.com/contest/282/problem/A) | :x: | - | - |
-| 37 | A - [Young Physicist](http://codeforces.com/contest/69/problem/A) | :x: | - | - |
-| 38 | A - [Pangram](http://codeforces.com/contest/520/problem/A) | :x: | - | - |
-| 39 | A - [Twins](http://codeforces.com/contest/160/problem/A) | :x: | - | - |
-| 40 | A - [Keyboard](http://codeforces.com/contest/474/problem/A) | :x: | - | - |
+| 34 | A - [Oath of the Night's Watch](http://codeforces.com/contest/768/problem/A) | [✔️](../Code&#32;Forces/CPP/Oath%20of%20the%20Night's%20Watch.cpp) | 1 | Simple implementation :) |
+| 35 | A - [Next Round](http://codeforces.com/contest/158/problem/A) | [✔️](../Code&#32;Forces/CPP/Next%20Round.cpp) | 1 | Simple implementation |
+| 36 | A - [Bit++](http://codeforces.com/contest/282/problem/A) | [✔️](../Code&#32;Forces/PY/Bit++.py) | 1 | Simple implementation |
+| 37 | A - [Young Physicist](http://codeforces.com/contest/69/problem/A) | [✔️](../Code&#32;Forces/CPP/Young%20Physicist.cpp) | 1 | Simple implementation |
+| 38 | A - [Pangram](http://codeforces.com/contest/520/problem/A) | [✔️](../Code&#32;Forces/CPP/Pangram.cpp) | 1 | Simple implementation |
+| 39 | A - [Twins](http://codeforces.com/contest/160/problem/A) | [✔️](../Code&#32;Forces/PY/Twins.py) | 1 | Simple implementation |
+| 40 | A - [Keyboard](http://codeforces.com/contest/474/problem/A) | [✔️](../Code&#32;Forces/PY/Keyboard.py) | 1 | Simple implementation |
 | 41 | A - [Forming Teams](http://codeforces.com/contest/216/problem/B) | :x: | - | - |
 | 42 | A - [Even Odds](http://codeforces.com/contest/318/problem/A) | :x: | - | - |
 | 43 | A - [I Wanna Be the Guy](http://codeforces.com/contest/469/problem/A) | :x: | - | - |
