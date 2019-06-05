@@ -43,9 +43,9 @@
 | 39 | A - [Twins](http://codeforces.com/contest/160/problem/A) | [✔️](../Code&#32;Forces/PY/Twins.py) | 1 | Simple implementation |
 | 40 | A - [Keyboard](http://codeforces.com/contest/474/problem/A) | [✔️](../Code&#32;Forces/PY/Keyboard.py) | 1 | Simple implementation |
 | 41 | A - [Forming Teams](http://codeforces.com/contest/216/problem/B) | :x: | - | - |
-| 42 | A - [Even Odds](http://codeforces.com/contest/318/problem/A) | :x: | - | - |
-| 43 | A - [I Wanna Be the Guy](http://codeforces.com/contest/469/problem/A) | :x: | - | - |
-| 44 | A - [Is it rated?](http://codeforces.com/contest/807/problem/A) | :x: | - | - |
+| 42 | A - [Even Odds](http://codeforces.com/contest/318/problem/A) | [✔️](../Code&#32;Forces/CPP/Even%20Odds.cpp) | 2 | Simple implementation :), Overflow >:( |
+| 43 | A - [I Wanna Be the Guy](http://codeforces.com/contest/469/problem/A) | [✔️](../Code&#32;Forces/CPP/I%20Wanna%20Be%20the%20Guy.cpp) | 1 | Simple implementation :) |
+| 44 | A - [Is it rated?](http://codeforces.com/contest/807/problem/A) | [✔️](../Code&#32;Forces/PY/Is%20it%20rated?.py) | 1 | Simple implementation :) |
 | 45 | A - [Olesya and Rodion](http://codeforces.com/contest/584/problem/A) | :x: | - | - |
 | 46 | A - [String Task](http://codeforces.com/contest/118/problem/A) | :x: | - | - |
 | 47 | A - [Translation](http://codeforces.com/contest/41/problem/A) | :x: | - | - |
