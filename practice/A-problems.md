@@ -46,9 +46,9 @@
 | 42 | A - [Even Odds](http://codeforces.com/contest/318/problem/A) | [✔️](../Code&#32;Forces/CPP/Even%20Odds.cpp) | 2 | Simple implementation :), Overflow >:( |
 | 43 | A - [I Wanna Be the Guy](http://codeforces.com/contest/469/problem/A) | [✔️](../Code&#32;Forces/CPP/I%20Wanna%20Be%20the%20Guy.cpp) | 1 | Simple implementation :) |
 | 44 | A - [Is it rated?](http://codeforces.com/contest/807/problem/A) | [✔️](../Code&#32;Forces/PY/Is%20it%20rated?.py) | 1 | Simple implementation :) |
-| 45 | A - [Olesya and Rodion](http://codeforces.com/contest/584/problem/A) | :x: | - | - |
-| 46 | A - [String Task](http://codeforces.com/contest/118/problem/A) | :x: | - | - |
-| 47 | A - [Translation](http://codeforces.com/contest/41/problem/A) | :x: | - | - |
+| 45 | A - [Olesya and Rodion](http://codeforces.com/contest/584/problem/A) | [✔️](../Code&#32;Forces/PY/Olesya%20and%20Rodion.py) | 1 | Simple implementation :) |
+| 46 | A - [String Task](http://codeforces.com/contest/118/problem/A) | [✔️](../Code&#32;Forces/CPP/String%20Task.cpp) | 1 | Simple implementation :) |
+| 47 | A - [Translation](http://codeforces.com/contest/41/problem/A) | [✔️](../Code&#32;Forces/PY/Translation.py) | 1 | Simple implementation :) |
 | 48 | A - [Case of the Zeros and Ones](http://codeforces.com/contest/556/problem/A) | :x: | - | - |
 | 49 | A - [Football](http://codeforces.com/contest/43/problem/A) | :x: | - | - |
 | 50 | A - [Brain's Photos](http://codeforces.com/contest/707/problem/A) | :x: | - | - |
