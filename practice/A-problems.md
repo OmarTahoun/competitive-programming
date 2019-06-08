@@ -52,9 +52,9 @@
 | 48 | A - [Case of the Zeros and Ones](http://codeforces.com/contest/556/problem/A) | [✔️](../Code&#32;Forces/PY/Case%20of%20the%20Zeros%20and%20Ones.py) | 1 | Looked at the tutorial |
 | 49 | A - [Football](http://codeforces.com/contest/43/problem/A) | [✔️](../Code&#32;Forces/PY/Football.py) | 1 | Simple implementation :) |
 | 50 | A - [Brain's Photos](http://codeforces.com/contest/707/problem/A) | [✔️](../Code&#32;Forces/CPP/Brain's%20Photos.cpp) | 1 | Simple implementation :) |
-| 51 | A - [Dubstep](http://codeforces.com/contest/208/problem/A) | :x: | - | - |
-| 52 | A - [Wasted Time](http://codeforces.com/contest/127/problem/A) | :x: | - | - |
-| 53 | A - [Fancy Fence](http://codeforces.com/contest/270/problem/A) | :x: | - | - |
+| 51 | A - [Dubstep](http://codeforces.com/contest/208/problem/A) | [✔️](../Code&#32;Forces/PY/Dubstep.py) | 1 | Simple implementation |
+| 52 | A - [Wasted Time](http://codeforces.com/contest/127/problem/A) | [✔️](../Code&#32;Forces/CPP/Wasted%20Time.cpp) | 1 | Simple implementation |
+| 53 | A - [Fancy Fence](http://codeforces.com/contest/270/problem/A) | [✔️](../Code&#32;Forces/PY/Fancy%20Fence.py) | 1 | Simple implementation |
 | 54 | A - [Pouring Rain](http://codeforces.com/contest/667/problem/A) | :x: | - | - |
 | 55 | A - [Valera and X](http://codeforces.com/contest/404/problem/A) | :x: | - | - |
 | 56 | A - [Arpa’s hard exam and Mehrdad’s naive cheat](http://codeforces.com/contest/742/problem/A) | :x: | - | - |
