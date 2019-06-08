@@ -57,11 +57,11 @@
 | 53 | A - [Fancy Fence](http://codeforces.com/contest/270/problem/A) | [✔️](../Code&#32;Forces/PY/Fancy%20Fence.py) | 1 | Simple implementation |
 | 54 | A - [Pouring Rain](http://codeforces.com/contest/667/problem/A) | [✔️](../Code&#32;Forces/CPP/Pouring%20Rain.cpp) | 1 | I need to re-learn math & geometry, had to look at the editorial :| |
 | 55 | A - [Valera and X](http://codeforces.com/contest/404/problem/A) | [✔️](../Code&#32;Forces/CPP/Valera%20and%20X.cpp) | 4 | enjoyed solving this problem, Simple implementation :D |
-| 56 | A - [Arpa’s hard exam and Mehrdad’s naive cheat](http://codeforces.com/contest/742/problem/A) | :x: | - | - |
-| 57 | A - [Calculating Function](http://codeforces.com/contest/486/problem/A) | :x: | - | - |
-| 58 | A - [Theatre Square](http://codeforces.com/contest/1/problem/A) | :x: | - | - |
-| 59 | A - [Anton and Polyhedrons](http://codeforces.com/contest/785/problem/A) | :x: | - | - |
-| 60 | A - [Panoramix's Prediction](http://codeforces.com/contest/80/problem/A) | :x: | - | - |
+| 56 | A - [Arpa’s hard exam and Mehrdad’s naive cheat](http://codeforces.com/contest/742/problem/A) | [✔️](../Code&#32;Forces/PY/Arpa’s%20hard%20exam%20and%20Mehrdad’s%20naive%20cheat.py) | 1 | Nice question, I like it :D |
+| 57 | A - [Calculating Function](http://codeforces.com/contest/486/problem/A) | [✔️](../Code&#32;Forces/PY/Calculating%20Function.py) | 2 | Math again :( |
+| 58 | A - [Theatre Square](http://codeforces.com/contest/1/problem/A) | [✔️](../Code&#32;Forces/CPP/Theatre%20Square.cpp) | 1 | Simple question, Maths |
+| 59 | A - [Anton and Polyhedrons](http://codeforces.com/contest/785/problem/A) | [✔️](../Code&#32;Forces/CPP/Anton%20and%20Polyhedrons.cpp) | 1 | Simple implementation |
+| 60 | A - [Panoramix's Prediction](http://codeforces.com/contest/80/problem/A) | [✔️](../Code&#32;Forces/PY/Panoramix's%20Prediction.py) | 1 | Simple implementation |
 | 61 | A - [Counterexample](http://codeforces.com/contest/483/problem/A) | :x: | - | - |
 | 62 | A - [Good Number](http://codeforces.com/contest/365/problem/A) | :x: | - | - |
 | 63 | A - [Dice Tower](http://codeforces.com/contest/225/problem/A) | :x: | - | - |
