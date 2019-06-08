@@ -55,8 +55,8 @@
 | 51 | A - [Dubstep](http://codeforces.com/contest/208/problem/A) | [✔️](../Code&#32;Forces/PY/Dubstep.py) | 1 | Simple implementation |
 | 52 | A - [Wasted Time](http://codeforces.com/contest/127/problem/A) | [✔️](../Code&#32;Forces/CPP/Wasted%20Time.cpp) | 1 | Simple implementation |
 | 53 | A - [Fancy Fence](http://codeforces.com/contest/270/problem/A) | [✔️](../Code&#32;Forces/PY/Fancy%20Fence.py) | 1 | Simple implementation |
-| 54 | A - [Pouring Rain](http://codeforces.com/contest/667/problem/A) | :x: | - | - |
-| 55 | A - [Valera and X](http://codeforces.com/contest/404/problem/A) | :x: | - | - |
+| 54 | A - [Pouring Rain](http://codeforces.com/contest/667/problem/A) | [✔️](../Code&#32;Forces/CPP/Pouring%20Rain.cpp) | 1 | I need to re-learn math & geometry, had to look at the editorial :| |
+| 55 | A - [Valera and X](http://codeforces.com/contest/404/problem/A) | [✔️](../Code&#32;Forces/CPP/Valera%20and%20X.cpp) | 4 | enjoyed solving this problem, Simple implementation :D |
 | 56 | A - [Arpa’s hard exam and Mehrdad’s naive cheat](http://codeforces.com/contest/742/problem/A) | :x: | - | - |
 | 57 | A - [Calculating Function](http://codeforces.com/contest/486/problem/A) | :x: | - | - |
 | 58 | A - [Theatre Square](http://codeforces.com/contest/1/problem/A) | :x: | - | - |
