@@ -62,13 +62,13 @@
 | 58 | A - [Theatre Square](http://codeforces.com/contest/1/problem/A) | [✔️](../Code&#32;Forces/CPP/Theatre%20Square.cpp) | 1 | Simple question, Maths |
 | 59 | A - [Anton and Polyhedrons](http://codeforces.com/contest/785/problem/A) | [✔️](../Code&#32;Forces/CPP/Anton%20and%20Polyhedrons.cpp) | 1 | Simple implementation |
 | 60 | A - [Panoramix's Prediction](http://codeforces.com/contest/80/problem/A) | [✔️](../Code&#32;Forces/PY/Panoramix's%20Prediction.py) | 1 | Simple implementation |
-| 61 | A - [Counterexample](http://codeforces.com/contest/483/problem/A) | :x: | - | - |
+| 61 | A - [Counterexample](http://codeforces.com/contest/483/problem/A) | [✔️](../Code&#32;Forces/CPP/Counterexample.cpp) | 1 | Brute force searching for the result |
 | 62 | A - [Good Number](http://codeforces.com/contest/365/problem/A) | :x: | - | - |
-| 63 | A - [Dice Tower](http://codeforces.com/contest/225/problem/A) | :x: | - | - |
+| 63 | A - [Dice Tower](http://codeforces.com/contest/225/problem/A) | [✔️](../Code&#32;Forces/PY/Dice%20Tower.py) | 1 | liked the question, Liked my solution |
 | 64 | A - [Alyona and Numbers](http://codeforces.com/contest/682/problem/A) | :x: | - | - |
 | 65 | A - [Mountain Scenery](http://codeforces.com/contest/218/problem/A) | :x: | - | - |
 | 66 | A - [Help Vasilisa the Wise 2](http://codeforces.com/contest/143/problem/A) | :x: | - | - |
-| 67 | A - [Chewbaсca and Number](http://codeforces.com/contest/514/problem/A) | :x: | - | - |
+| 67 | A - [Chewbaсca and Number](http://codeforces.com/contest/514/problem/A) | [✔️](../Code&#32;Forces/PY/Chewbaсca%20and%20Number.py) | 2 | brute force for the answer following the conditions |
 | 68 | A - [Ksenia and Pan Scales](http://codeforces.com/contest/382/problem/A) | :x: | - | - |
 | 69 | A - [Launch of Collider](http://codeforces.com/contest/699/problem/A) | :x: | - | - |
 | 70 | A - [Polo the Penguin and Segments](http://codeforces.com/contest/289/problem/A) | :x: | - | - |
