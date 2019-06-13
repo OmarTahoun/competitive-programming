@@ -72,8 +72,8 @@
 | 68 | A - [Ksenia and Pan Scales](http://codeforces.com/contest/382/problem/A) | [✔️](../Code&#32;Forces/PY/Ksenia%20and%20Pan%20Scales.py) | 1 | Simple implementation |
 | 69 | A - [Launch of Collider](http://codeforces.com/contest/699/problem/A) | [✔️](../Code&#32;Forces/PY/Launch%20of%20Collider.py) | 1 | implementation, simple maths |
 | 70 | A - [Polo the Penguin and Segments](http://codeforces.com/contest/289/problem/A) | [✔️](../Code&#32;Forces/PY/Polo%20the%20Penguin%20and%20Segments.py) | 1 | implementation |
-| 71 | A - [IQ Test](http://codeforces.com/contest/287/problem/A) | :x: | - | - |
-| 72 | A - [Yaroslav and Permutations](http://codeforces.com/contest/296/problem/A) | :x: | - | - |
+| 71 | A - [IQ Test](http://codeforces.com/contest/287/problem/A) | [✔️](../Code&#32;Forces/CPP/IQ%20Test.cpp) | 1 | implementation, Loop :D |
+| 72 | A - [Yaroslav and Permutations](http://codeforces.com/contest/296/problem/A) | [✔️](../Code&#32;Forces/PY/Yaroslav%20and%20Permutations.py) | 1 | Solved similar problems before |
 | 73 | A - [Laptops](http://codeforces.com/contest/456/problem/A) | :x: | - | - |
 | 74 | A - [Snow Footprints](http://codeforces.com/contest/298/problem/A) | :x: | - | - |
 | 75 | A - [Raising Bacteria](http://codeforces.com/contest/579/problem/A) | :x: | - | - |
