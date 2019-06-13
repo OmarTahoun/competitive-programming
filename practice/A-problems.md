@@ -74,8 +74,8 @@
 | 70 | A - [Polo the Penguin and Segments](http://codeforces.com/contest/289/problem/A) | [✔️](../Code&#32;Forces/PY/Polo%20the%20Penguin%20and%20Segments.py) | 1 | implementation |
 | 71 | A - [IQ Test](http://codeforces.com/contest/287/problem/A) | [✔️](../Code&#32;Forces/CPP/IQ%20Test.cpp) | 1 | implementation, Loop :D |
 | 72 | A - [Yaroslav and Permutations](http://codeforces.com/contest/296/problem/A) | [✔️](../Code&#32;Forces/PY/Yaroslav%20and%20Permutations.py) | 1 | Solved similar problems before |
-| 73 | A - [Laptops](http://codeforces.com/contest/456/problem/A) | :x: | - | - |
+| 73 | A - [Laptops](http://codeforces.com/contest/456/problem/A) | [✔️](../Code&#32;Forces/CPP/Laptops.cpp) | 1 | Permutations |
 | 74 | A - [Snow Footprints](http://codeforces.com/contest/298/problem/A) | :x: | - | - |
-| 75 | A - [Raising Bacteria](http://codeforces.com/contest/579/problem/A) | :x: | - | - |
+| 75 | A - [Raising Bacteria](http://codeforces.com/contest/579/problem/A) | [✔️](../Code&#32;Forces/PY/Raising%20Bacteria.py) | 1 | Count the bits in the binary representation |
 | 76 | A - [Pipeline](http://codeforces.com/contest/287/problem/B) | :x: | - | - |
 | 77 | A - [Burning Midnight Oil](http://codeforces.com/contest/165/problem/B) | :x: | - | - |
