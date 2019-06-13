@@ -70,8 +70,8 @@
 | 66 | A - [Help Vasilisa the Wise 2](http://codeforces.com/contest/143/problem/A) | [✔️](../Code&#32;Forces/CPP/Help%20Vasilisa%20the%20Wise%202.cpp) | 1 | Math equation, following the conditions |
 | 67 | A - [Chewbaсca and Number](http://codeforces.com/contest/514/problem/A) | [✔️](../Code&#32;Forces/PY/Chewbaсca%20and%20Number.py) | 2 | brute force for the answer following the conditions |
 | 68 | A - [Ksenia and Pan Scales](http://codeforces.com/contest/382/problem/A) | [✔️](../Code&#32;Forces/PY/Ksenia%20and%20Pan%20Scales.py) | 1 | Simple implementation |
-| 69 | A - [Launch of Collider](http://codeforces.com/contest/699/problem/A) | :x: | - | - |
-| 70 | A - [Polo the Penguin and Segments](http://codeforces.com/contest/289/problem/A) | :x: | - | - |
+| 69 | A - [Launch of Collider](http://codeforces.com/contest/699/problem/A) | [✔️](../Code&#32;Forces/PY/Launch%20of%20Collider.py) | 1 | implementation, simple maths |
+| 70 | A - [Polo the Penguin and Segments](http://codeforces.com/contest/289/problem/A) | [✔️](../Code&#32;Forces/PY/Polo%20the%20Penguin%20and%20Segments.py) | 1 | implementation |
 | 71 | A - [IQ Test](http://codeforces.com/contest/287/problem/A) | :x: | - | - |
 | 72 | A - [Yaroslav and Permutations](http://codeforces.com/contest/296/problem/A) | :x: | - | - |
 | 73 | A - [Laptops](http://codeforces.com/contest/456/problem/A) | :x: | - | - |
