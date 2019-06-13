@@ -65,9 +65,9 @@
 | 61 | A - [Counterexample](http://codeforces.com/contest/483/problem/A) | [✔️](../Code&#32;Forces/CPP/Counterexample.cpp) | 1 | Brute force searching for the result |
 | 62 | A - [Good Number](http://codeforces.com/contest/365/problem/A) | :x: | - | - |
 | 63 | A - [Dice Tower](http://codeforces.com/contest/225/problem/A) | [✔️](../Code&#32;Forces/PY/Dice%20Tower.py) | 1 | liked the question, Liked my solution |
-| 64 | A - [Alyona and Numbers](http://codeforces.com/contest/682/problem/A) | :x: | - | - |
+| 64 | A - [Alyona and Numbers](http://codeforces.com/contest/682/problem/A) | [✔️](../Code&#32;Forces/CPP/Alyona%20and%20Numbers.cpp) | 2 | Watched video solution then implmented, needs knowledge about math and abit of thinking |
 | 65 | A - [Mountain Scenery](http://codeforces.com/contest/218/problem/A) | [✔️](../Code&#32;Forces/CPP/Mountain%20Scenery.cpp) | 2 | bruteforce following the conditions |
-| 66 | A - [Help Vasilisa the Wise 2](http://codeforces.com/contest/143/problem/A) | :x: | - | - |
+| 66 | A - [Help Vasilisa the Wise 2](http://codeforces.com/contest/143/problem/A) | [✔️](../Code&#32;Forces/CPP/Help%20Vasilisa%20the%20Wise%202.cpp) | 1 | Math equation, following the conditions |
 | 67 | A - [Chewbaсca and Number](http://codeforces.com/contest/514/problem/A) | [✔️](../Code&#32;Forces/PY/Chewbaсca%20and%20Number.py) | 2 | brute force for the answer following the conditions |
 | 68 | A - [Ksenia and Pan Scales](http://codeforces.com/contest/382/problem/A) | [✔️](../Code&#32;Forces/PY/Ksenia%20and%20Pan%20Scales.py) | 1 | Simple implementation |
 | 69 | A - [Launch of Collider](http://codeforces.com/contest/699/problem/A) | :x: | - | - |
