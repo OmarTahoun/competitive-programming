@@ -1,3 +1,6 @@
+## CodeForces A - Div2. problems for practicing
+| # | Problem  | Status | Submission Count | Notes |
+| --- | --- | --- | --- | --- |
 | 0 | A - [Left-handers, Right-handers and Ambidexters](http://codeforces.com/contest/950/problem/A) | :x: | - | - |
 | 1 | A - [George and Accommodation](http://codeforces.com/contest/467/problem/A) | :x: | - | - |
 | 2 | A - [Vasya the Hipster](http://codeforces.com/contest/581/problem/A) | :x: | - | - |
