@@ -25,7 +25,7 @@ def update(id, status, lang, count, notes):
 
 def update_file():
     # Writting the Data to the MarkDown file
-    file = open("A-problems.md", "w")
+    file = open("Extra-A-problems.md", "w")
     file.write("## CodeForces A - Div2. problems for practicing\n")
     file.write("| # | Problem  | Status | Submission Count | Notes |\n")
     file.write("| --- | --- | --- | --- | --- |\n")
