@@ -1,11 +1,11 @@
 ## CodeForces A - Div2. problems for practicing
 | # | Problem  | Status | Submission Count | Notes |
 | --- | --- | --- | --- | --- |
-| 0 | A - [Left-handers, Right-handers and Ambidexters](http://codeforces.com/contest/950/problem/A) | :x: | - | - |
-| 1 | A - [George and Accommodation](http://codeforces.com/contest/467/problem/A) | :x: | - | - |
-| 2 | A - [Vasya the Hipster](http://codeforces.com/contest/581/problem/A) | :x: | - | - |
-| 3 | A - [Fox And Snake](http://codeforces.com/contest/510/problem/A) | :x: | - | - |
-| 4 | A - [The New Year: Meeting Friends](http://codeforces.com/contest/723/problem/A) | :x: | - | - |
+| 0 | A - [Left-handers, Right-handers and Ambidexters](http://codeforces.com/contest/950/problem/A) | [✔️](../Code&#32;Forces/CPP/Left-handers,%20Right-handers%20and%20Ambidexters.cpp) | 1 | Simple implementation |
+| 1 | A - [George and Accommodation](http://codeforces.com/contest/467/problem/A) | [✔️](../Code&#32;Forces/CPP/George%20and%20Accommodation.cpp) | 1 | Simple implementation |
+| 2 | A - [Vasya the Hipster](http://codeforces.com/contest/581/problem/A) | [✔️](../Code&#32;Forces/CPP/Vasya%20the%20Hipster.cpp) | 1 | Simple implementation, Math |
+| 3 | A - [Fox And Snake](http://codeforces.com/contest/510/problem/A) | [✔️](../Code&#32;Forces/CPP/Fox%20And%20Snake.cpp) | 1 | Simple implementation |
+| 4 | A - [The New Year: Meeting Friends](http://codeforces.com/contest/723/problem/A) | [✔️](../Code&#32;Forces/CPP/The%20New%20Year:%20Meeting%20Friends.cpp) | 1 | Simple implementation, Math Minimum distance |
 | 5 | A - [Elephant](http://codeforces.com/contest/617/problem/A) | :x: | - | - |
 | 6 | A - [Greg's Workout](http://codeforces.com/contest/255/problem/A) | :x: | - | - |
 | 7 | A - [Ultra-Fast Mathematician](http://codeforces.com/contest/61/problem/A) | :x: | - | - |
