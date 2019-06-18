@@ -6,9 +6,9 @@
 | 2 | A - [Vasya the Hipster](http://codeforces.com/contest/581/problem/A) | [✔️](../Code&#32;Forces/CPP/Vasya%20the%20Hipster.cpp) | 1 | Simple implementation, Math |
 | 3 | A - [Fox And Snake](http://codeforces.com/contest/510/problem/A) | [✔️](../Code&#32;Forces/CPP/Fox%20And%20Snake.cpp) | 1 | Simple implementation |
 | 4 | A - [The New Year: Meeting Friends](http://codeforces.com/contest/723/problem/A) | [✔️](../Code&#32;Forces/CPP/The%20New%20Year:%20Meeting%20Friends.cpp) | 1 | Simple implementation, Math Minimum distance |
-| 5 | A - [Elephant](http://codeforces.com/contest/617/problem/A) | :x: | - | - |
-| 6 | A - [Greg's Workout](http://codeforces.com/contest/255/problem/A) | :x: | - | - |
-| 7 | A - [Ultra-Fast Mathematician](http://codeforces.com/contest/61/problem/A) | :x: | - | - |
+| 5 | A - [Elephant](http://codeforces.com/contest/617/problem/A) | [✔️](../Code&#32;Forces/CPP/Elephant.cpp) | 1 | Simple implementation |
+| 6 | A - [Greg's Workout](http://codeforces.com/contest/255/problem/A) | [✔️](../Code&#32;Forces/CPP/Greg's%20Workout.cpp) | 1 | Simple implementation |
+| 7 | A - [Ultra-Fast Mathematician](http://codeforces.com/contest/61/problem/A) | [✔️](../Code&#32;Forces/CPP/Ultra-Fast%20Mathematician.cpp) | 1 | Simple implementation |
 | 8 | A - [Little Pony and Crystal Mine](http://codeforces.com/contest/454/problem/A) | :x: | - | - |
 | 9 | A - [One-dimensional Japanese Crossword](http://codeforces.com/contest/721/problem/A) | :x: | - | - |
 | 10 | A - [Soldier and Bananas](http://codeforces.com/contest/546/problem/A) | :x: | - | - |
