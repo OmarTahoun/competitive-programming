@@ -10,11 +10,11 @@
 | 6 | A - [Greg's Workout](http://codeforces.com/contest/255/problem/A) | [✔️](../Code&#32;Forces/CPP/Greg's%20Workout.cpp) | 1 | Simple implementation |
 | 7 | A - [Ultra-Fast Mathematician](http://codeforces.com/contest/61/problem/A) | [✔️](../Code&#32;Forces/CPP/Ultra-Fast%20Mathematician.cpp) | 1 | Simple implementation |
 | 8 | A - [Little Pony and Crystal Mine](http://codeforces.com/contest/454/problem/A) | :x: | - | - |
-| 9 | A - [One-dimensional Japanese Crossword](http://codeforces.com/contest/721/problem/A) | :x: | - | - |
-| 10 | A - [Soldier and Bananas](http://codeforces.com/contest/546/problem/A) | :x: | - | - |
-| 11 | A - [Bus to Udayland](http://codeforces.com/contest/711/problem/A) | :x: | - | - |
-| 12 | A - [Cookies](http://codeforces.com/contest/129/problem/A) | :x: | - | - |
-| 13 | A - [Second Order Statistics](http://codeforces.com/contest/22/problem/A) | :x: | - | - |
+| 9 | A - [One-dimensional Japanese Crossword](http://codeforces.com/contest/721/problem/A) | [✔️](../Code&#32;Forces/CPP/One-dimensional%20Japanese%20Crossword.cpp) | 1 | Simple implementation |
+| 10 | A - [Soldier and Bananas](http://codeforces.com/contest/546/problem/A) | [✔️](../Code&#32;Forces/CPP/Soldier%20and%20Bananas.cpp) | 1 | Simple implementation |
+| 11 | A - [Bus to Udayland](http://codeforces.com/contest/711/problem/A) | [✔️](../Code&#32;Forces/CPP/Bus%20to%20Udayland.cpp) | 1 | Simple implementation |
+| 12 | A - [Cookies](http://codeforces.com/contest/129/problem/A) | [✔️](../Code&#32;Forces/CPP/Cookies.cpp) | 1 | Simple implementation |
+| 13 | A - [Second Order Statistics](http://codeforces.com/contest/22/problem/A) | [✔️](../Code&#32;Forces/CPP/Second%20Order%20Statistics.cpp) | 1 | Simple implementation, Sorting |
 | 14 | A - [Nearly Lucky Number](http://codeforces.com/contest/110/problem/A) | :x: | - | - |
 | 15 | A - [Playing with Dice](http://codeforces.com/contest/378/problem/A) | :x: | - | - |
 | 16 | A - [A Good Contest](http://codeforces.com/contest/681/problem/A) | :x: | - | - |
