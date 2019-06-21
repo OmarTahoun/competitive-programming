@@ -20,11 +20,11 @@
 | 16 | A - [A Good Contest](http://codeforces.com/contest/681/problem/A) | [✔️](../Code&#32;Forces/CPP/A%20Good%20Contest.cpp) | 1 | Simple implementation |
 | 17 | A - [Beautiful Year](http://codeforces.com/contest/271/problem/A) | [✔️](../Code&#32;Forces/PY/Beautiful%20Year.py) | 1 | Simple implementation |
 | 18 | A - [Far Relative’s Birthday Cake](http://codeforces.com/contest/629/problem/A) | :x: | - | - |
-| 19 | A - [Mashmokh and Lights](http://codeforces.com/contest/415/problem/A) | :x: | - | - |
-| 20 | A - [Triangular numbers](http://codeforces.com/contest/47/problem/A) | :x: | - | - |
-| 21 | A - [Roma and Lucky Numbers](http://codeforces.com/contest/262/problem/A) | :x: | - | - |
-| 22 | A - [Toy Army](http://codeforces.com/contest/84/problem/A) | :x: | - | - |
-| 23 | A - [Levko and Table](http://codeforces.com/contest/361/problem/A) | :x: | - | - |
+| 19 | A - [Mashmokh and Lights](http://codeforces.com/contest/415/problem/A) | [✔️](../Code&#32;Forces/CPP/Mashmokh%20and%20Lights.cpp) | 1 | Simple implementation |
+| 20 | A - [Triangular numbers](http://codeforces.com/contest/47/problem/A) | [✔️](../Code&#32;Forces/CPP/Triangular%20numbers.cpp) | 1 | Simple implementation |
+| 21 | A - [Roma and Lucky Numbers](http://codeforces.com/contest/262/problem/A) | [✔️](../Code&#32;Forces/PY/Roma%20and%20Lucky%20Numbers.py) | 1 | Simple implementation |
+| 22 | A - [Toy Army](http://codeforces.com/contest/84/problem/A) | [✔️](../Code&#32;Forces/PY/Toy%20Army.py) | 1 | Simple implementation |
+| 23 | A - [Levko and Table](http://codeforces.com/contest/361/problem/A) | [✔️](../Code&#32;Forces/CPP/Levko%20and%20Table.cpp) | 1 | Simple implementation |
 | 24 | A - [Cards](http://codeforces.com/contest/701/problem/A) | :x: | - | - |
 | 25 | A - [Wizards' Duel](http://codeforces.com/contest/591/problem/A) | :x: | - | - |
 | 26 | A - [Combination Lock](http://codeforces.com/contest/540/problem/A) | :x: | - | - |
