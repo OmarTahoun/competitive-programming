@@ -15,10 +15,10 @@
 | 11 | A - [Bus to Udayland](http://codeforces.com/contest/711/problem/A) | [✔️](../Code&#32;Forces/CPP/Bus%20to%20Udayland.cpp) | 1 | Simple implementation |
 | 12 | A - [Cookies](http://codeforces.com/contest/129/problem/A) | [✔️](../Code&#32;Forces/CPP/Cookies.cpp) | 1 | Simple implementation |
 | 13 | A - [Second Order Statistics](http://codeforces.com/contest/22/problem/A) | [✔️](../Code&#32;Forces/CPP/Second%20Order%20Statistics.cpp) | 1 | Simple implementation, Sorting |
-| 14 | A - [Nearly Lucky Number](http://codeforces.com/contest/110/problem/A) | :x: | - | - |
-| 15 | A - [Playing with Dice](http://codeforces.com/contest/378/problem/A) | :x: | - | - |
-| 16 | A - [A Good Contest](http://codeforces.com/contest/681/problem/A) | :x: | - | - |
-| 17 | A - [Beautiful Year](http://codeforces.com/contest/271/problem/A) | :x: | - | - |
+| 14 | A - [Nearly Lucky Number](http://codeforces.com/contest/110/problem/A) | [✔️](../Code&#32;Forces/CPP/Nearly%20Lucky%20Number.cpp) | 1 | Simple implementation |
+| 15 | A - [Playing with Dice](http://codeforces.com/contest/378/problem/A) | [✔️](../Code&#32;Forces/PY/Playing%20with%20Dice.py) | 1 | Simple implementation |
+| 16 | A - [A Good Contest](http://codeforces.com/contest/681/problem/A) | [✔️](../Code&#32;Forces/CPP/A%20Good%20Contest.cpp) | 1 | Simple implementation |
+| 17 | A - [Beautiful Year](http://codeforces.com/contest/271/problem/A) | [✔️](../Code&#32;Forces/PY/Beautiful%20Year.py) | 1 | Simple implementation |
 | 18 | A - [Far Relative’s Birthday Cake](http://codeforces.com/contest/629/problem/A) | :x: | - | - |
 | 19 | A - [Mashmokh and Lights](http://codeforces.com/contest/415/problem/A) | :x: | - | - |
 | 20 | A - [Triangular numbers](http://codeforces.com/contest/47/problem/A) | :x: | - | - |
