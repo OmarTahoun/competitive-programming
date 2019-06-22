@@ -25,7 +25,7 @@
 | 21 | A - [Roma and Lucky Numbers](http://codeforces.com/contest/262/problem/A) | [✔️](../Code&#32;Forces/PY/Roma%20and%20Lucky%20Numbers.py) | 1 | Simple implementation |
 | 22 | A - [Toy Army](http://codeforces.com/contest/84/problem/A) | [✔️](../Code&#32;Forces/PY/Toy%20Army.py) | 1 | Simple implementation |
 | 23 | A - [Levko and Table](http://codeforces.com/contest/361/problem/A) | [✔️](../Code&#32;Forces/CPP/Levko%20and%20Table.cpp) | 1 | Simple implementation |
-| 24 | A - [Cards](http://codeforces.com/contest/701/problem/A) | :x: | - | - |
+| 24 | A - [Cards](http://codeforces.com/contest/701/problem/A) | [✔️](../Code&#32;Forces/PY/Cards.py) | 1 | Simple implementation, looked at the Tutorial |
 | 25 | A - [Wizards' Duel](http://codeforces.com/contest/591/problem/A) | :x: | - | - |
 | 26 | A - [Combination Lock](http://codeforces.com/contest/540/problem/A) | :x: | - | - |
 | 27 | A - [Summer Camp](http://codeforces.com/contest/672/problem/A) | :x: | - | - |
