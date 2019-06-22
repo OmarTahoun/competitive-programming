@@ -26,10 +26,10 @@
 | 22 | A - [Toy Army](http://codeforces.com/contest/84/problem/A) | [✔️](../Code&#32;Forces/PY/Toy%20Army.py) | 1 | Simple implementation |
 | 23 | A - [Levko and Table](http://codeforces.com/contest/361/problem/A) | [✔️](../Code&#32;Forces/CPP/Levko%20and%20Table.cpp) | 1 | Simple implementation |
 | 24 | A - [Cards](http://codeforces.com/contest/701/problem/A) | [✔️](../Code&#32;Forces/PY/Cards.py) | 1 | Simple implementation, looked at the Tutorial |
-| 25 | A - [Wizards' Duel](http://codeforces.com/contest/591/problem/A) | :x: | - | - |
-| 26 | A - [Combination Lock](http://codeforces.com/contest/540/problem/A) | :x: | - | - |
-| 27 | A - [Summer Camp](http://codeforces.com/contest/672/problem/A) | :x: | - | - |
-| 28 | A - [Soft Drinking](http://codeforces.com/contest/151/problem/A) | :x: | - | - |
+| 25 | A - [Wizards' Duel](http://codeforces.com/contest/591/problem/A) | [✔️](../Code&#32;Forces/PY/Wizards'%20Duel.py) | 2 | Simple implementation, asked friends for help |
+| 26 | A - [Combination Lock](http://codeforces.com/contest/540/problem/A) | [✔️](../Code&#32;Forces/PY/Combination%20Lock.py) | 1 | Simple implementation |
+| 27 | A - [Summer Camp](http://codeforces.com/contest/672/problem/A) | [✔️](../Code&#32;Forces/PY/Summer%20Camp.py) | 1 | Simple implementation |
+| 28 | A - [Soft Drinking](http://codeforces.com/contest/151/problem/A) | [✔️](../Code&#32;Forces/PY/Soft%20Drinking.py) | 1 | Simple implementation |
 | 29 | A - [Coder](http://codeforces.com/contest/384/problem/A) | :x: | - | - |
 | 30 | A - [GukiZ and Contest](http://codeforces.com/contest/551/problem/A) | :x: | - | - |
 | 31 | A - [Circle Line](http://codeforces.com/contest/278/problem/A) | :x: | - | - |
