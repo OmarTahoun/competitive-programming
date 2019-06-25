@@ -34,11 +34,11 @@
 | 30 | A - [GukiZ and Contest](http://codeforces.com/contest/551/problem/A) | [✔️](../Code&#32;Forces/PY/GukiZ%20and%20Contest.py) | 1 | Simple implementation, sorting |
 | 31 | A - [Circle Line](http://codeforces.com/contest/278/problem/A) | [✔️](../Code&#32;Forces/CPP/Circle%20Line.cpp) | 2 | Simple implementation, sorting |
 | 32 | A - [Patrick and Shopping](http://codeforces.com/contest/599/problem/A) | [✔️](../Code&#32;Forces/CPP/Patrick%20and%20Shopping.cpp) | 1 | Simple implementation o(1) |
-| 33 | A - [Choosing Teams](http://codeforces.com/contest/432/problem/A) | :x: | - | - |
-| 34 | A - [Vanya and Cubes](http://codeforces.com/contest/492/problem/A) | :x: | - | - |
-| 35 | A - [Insomnia cure](http://codeforces.com/contest/148/problem/A) | :x: | - | - |
-| 36 | A - [Cakeminator](http://codeforces.com/contest/330/problem/A) | :x: | - | - |
-| 37 | A - [Flag](http://codeforces.com/contest/16/problem/A) | :x: | - | - |
+| 33 | A - [Choosing Teams](http://codeforces.com/contest/432/problem/A) | [✔️](../Code&#32;Forces/CPP/Choosing%20Teams.cpp) | 1 | Simple implementation o(n) |
+| 34 | A - [Vanya and Cubes](http://codeforces.com/contest/492/problem/A) | [✔️](../Code&#32;Forces/CPP/Vanya%20and%20Cubes.cpp) | 1 | Simple implementation |
+| 35 | A - [Insomnia cure](http://codeforces.com/contest/148/problem/A) | [✔️](../Code&#32;Forces/PY/Insomnia%20cure.py) | 2 | implementation |
+| 36 | A - [Cakeminator](http://codeforces.com/contest/330/problem/A) | [✔️](../Code&#32;Forces/PY/Cakeminator.py) | 2 | implementation |
+| 37 | A - [Flag](http://codeforces.com/contest/16/problem/A) | [✔️](../Code&#32;Forces/PY/Flag.py) | 1 | implementation |
 | 38 | A - [Cupboards](http://codeforces.com/contest/248/problem/A) | :x: | - | - |
 | 39 | A - [Soroban](http://codeforces.com/contest/363/problem/A) | :x: | - | - |
 | 40 | A - [Amusing Joke](http://codeforces.com/contest/141/problem/A) | :x: | - | - |
