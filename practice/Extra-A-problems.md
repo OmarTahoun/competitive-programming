@@ -30,10 +30,10 @@
 | 26 | A - [Combination Lock](http://codeforces.com/contest/540/problem/A) | [✔️](../Code&#32;Forces/PY/Combination%20Lock.py) | 1 | Simple implementation |
 | 27 | A - [Summer Camp](http://codeforces.com/contest/672/problem/A) | [✔️](../Code&#32;Forces/PY/Summer%20Camp.py) | 1 | Simple implementation |
 | 28 | A - [Soft Drinking](http://codeforces.com/contest/151/problem/A) | [✔️](../Code&#32;Forces/PY/Soft%20Drinking.py) | 1 | Simple implementation |
-| 29 | A - [Coder](http://codeforces.com/contest/384/problem/A) | :x: | - | - |
-| 30 | A - [GukiZ and Contest](http://codeforces.com/contest/551/problem/A) | :x: | - | - |
-| 31 | A - [Circle Line](http://codeforces.com/contest/278/problem/A) | :x: | - | - |
-| 32 | A - [Patrick and Shopping](http://codeforces.com/contest/599/problem/A) | :x: | - | - |
+| 29 | A - [Coder](http://codeforces.com/contest/384/problem/A) | [✔️](../Code&#32;Forces/CPP/Coder.cpp) | 2 | Simple implementation |
+| 30 | A - [GukiZ and Contest](http://codeforces.com/contest/551/problem/A) | [✔️](../Code&#32;Forces/PY/GukiZ%20and%20Contest.py) | 1 | Simple implementation, sorting |
+| 31 | A - [Circle Line](http://codeforces.com/contest/278/problem/A) | [✔️](../Code&#32;Forces/CPP/Circle%20Line.cpp) | 2 | Simple implementation, sorting |
+| 32 | A - [Patrick and Shopping](http://codeforces.com/contest/599/problem/A) | [✔️](../Code&#32;Forces/CPP/Patrick%20and%20Shopping.cpp) | 1 | Simple implementation o(1) |
 | 33 | A - [Choosing Teams](http://codeforces.com/contest/432/problem/A) | :x: | - | - |
 | 34 | A - [Vanya and Cubes](http://codeforces.com/contest/492/problem/A) | :x: | - | - |
 | 35 | A - [Insomnia cure](http://codeforces.com/contest/148/problem/A) | :x: | - | - |
