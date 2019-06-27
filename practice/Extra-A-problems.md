@@ -39,10 +39,10 @@
 | 35 | A - [Insomnia cure](http://codeforces.com/contest/148/problem/A) | [✔️](../Code&#32;Forces/PY/Insomnia%20cure.py) | 2 | implementation |
 | 36 | A - [Cakeminator](http://codeforces.com/contest/330/problem/A) | [✔️](../Code&#32;Forces/PY/Cakeminator.py) | 2 | implementation |
 | 37 | A - [Flag](http://codeforces.com/contest/16/problem/A) | [✔️](../Code&#32;Forces/PY/Flag.py) | 1 | implementation |
-| 38 | A - [Cupboards](http://codeforces.com/contest/248/problem/A) | :x: | - | - |
-| 39 | A - [Soroban](http://codeforces.com/contest/363/problem/A) | :x: | - | - |
-| 40 | A - [Amusing Joke](http://codeforces.com/contest/141/problem/A) | :x: | - | - |
-| 41 | A - [Lights Out](http://codeforces.com/contest/275/problem/A) | :x: | - | - |
+| 38 | A - [Cupboards](http://codeforces.com/contest/248/problem/A) | [✔️](../Code&#32;Forces/CPP/Cupboards.cpp) | 1 | simple implementation |
+| 39 | A - [Soroban](http://codeforces.com/contest/363/problem/A) | [✔️](../Code&#32;Forces/PY/Soroban.py) | 1 | simple implementation |
+| 40 | A - [Amusing Joke](http://codeforces.com/contest/141/problem/A) | [✔️](../Code&#32;Forces/CPP/Amusing%20Joke.cpp) | 1 | simple implementation |
+| 41 | A - [Lights Out](http://codeforces.com/contest/275/problem/A) | [✔️](../Code&#32;Forces/CPP/Lights%20Out.cpp) | 1 | simple implementation |
 | 42 | A - [Lunch Rush](http://codeforces.com/contest/276/problem/A) | :x: | - | - |
 | 43 | A - [Duff and Meat](http://codeforces.com/contest/588/problem/A) | :x: | - | - |
 | 44 | A - [Vanya and Cards](http://codeforces.com/contest/401/problem/A) | :x: | - | - |
