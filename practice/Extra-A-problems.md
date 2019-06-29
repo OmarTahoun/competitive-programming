@@ -43,9 +43,9 @@
 | 39 | A - [Soroban](http://codeforces.com/contest/363/problem/A) | [✔️](../Code&#32;Forces/PY/Soroban.py) | 1 | simple implementation |
 | 40 | A - [Amusing Joke](http://codeforces.com/contest/141/problem/A) | [✔️](../Code&#32;Forces/CPP/Amusing%20Joke.cpp) | 1 | simple implementation |
 | 41 | A - [Lights Out](http://codeforces.com/contest/275/problem/A) | [✔️](../Code&#32;Forces/CPP/Lights%20Out.cpp) | 1 | simple implementation |
-| 42 | A - [Lunch Rush](http://codeforces.com/contest/276/problem/A) | :x: | - | - |
-| 43 | A - [Duff and Meat](http://codeforces.com/contest/588/problem/A) | :x: | - | - |
-| 44 | A - [Vanya and Cards](http://codeforces.com/contest/401/problem/A) | :x: | - | - |
+| 42 | A - [Lunch Rush](http://codeforces.com/contest/276/problem/A) | [✔️](../Code&#32;Forces/PY/Lunch%20Rush.py) | 1 | Simple Implementation |
+| 43 | A - [Duff and Meat](http://codeforces.com/contest/588/problem/A) | [✔️](../Code&#32;Forces/CPP/Duff%20and%20Meat.cpp) | 1 | Simple Implementation |
+| 44 | A - [Vanya and Cards](http://codeforces.com/contest/401/problem/A) | [✔️](../Code&#32;Forces/PY/Vanya%20and%20Cards.py) | 2 | Simple implementaiton, brute force |
 | 45 | A - [Squats](http://codeforces.com/contest/424/problem/A) | :x: | - | - |
 | 46 | A - [Arrival of the General](http://codeforces.com/contest/144/problem/A) | :x: | - | - |
 | 47 | A - [Sinking Ship](http://codeforces.com/contest/63/problem/A) | :x: | - | - |
