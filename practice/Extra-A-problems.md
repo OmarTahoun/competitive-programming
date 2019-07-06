@@ -49,11 +49,11 @@
 | 45 | A - [Squats](http://codeforces.com/contest/424/problem/A) | :x: | - | - |
 | 46 | A - [Arrival of the General](http://codeforces.com/contest/144/problem/A) | [✔️](../Code&#32;Forces/PY/Arrival%20of%20the%20General.py) | 1 | Simple implementation, loop |
 | 47 | A - [Sinking Ship](http://codeforces.com/contest/63/problem/A) | [✔️](../Code&#32;Forces/CPP/Sinking%20Ship.cpp) | 1 | Simple implementation, Vectors |
-| 48 | A - [LLPS](http://codeforces.com/contest/202/problem/A) | :x: | - | - |
-| 49 | A - [Candy Bags](http://codeforces.com/contest/334/problem/A) | [✔️](../Code&#32;Forces/PY/Candy%20Bags.py) | 1 | loop |
-| 50 | A - [Game With Sticks](http://codeforces.com/contest/451/problem/A) | :x: | - | - |
-| 51 | A - [Vasya and Socks](http://codeforces.com/contest/460/problem/A) | :x: | - | - |
-| 52 | A - [Dima and Friends](http://codeforces.com/contest/272/problem/A) | :x: | - | - |
+| 48 | A - [LLPS](http://codeforces.com/contest/202/problem/A) | [✔️](../Code&#32;Forces/PY/LLPS.py) | 1 | Brute force, sorting |
+| 49 | A - [Candy Bags](http://codeforces.com/contest/334/problem/A) | [✔️](../Code&#32;Forces/PY/Candy%20Bags.py) | 1 | Simple implementation, math |
+| 50 | A - [Game With Sticks](http://codeforces.com/contest/451/problem/A) | [✔️](../Code&#32;Forces/PY/Game%20With%20Sticks.py) | 1 | Simple implementation, math |
+| 51 | A - [Vasya and Socks](http://codeforces.com/contest/460/problem/A) | [✔️](../Code&#32;Forces/PY/Vasya%20and%20Socks.py) | 1 | Simple implementation |
+| 52 | A - [Dima and Friends](http://codeforces.com/contest/272/problem/A) | [✔️](../Code&#32;Forces/PY/Dima%20and%20Friends.py) | 1 | Simple implementation |
 | 53 | A - [Nicholas and Permutation](http://codeforces.com/contest/676/problem/A) | :x: | - | - |
 | 54 | A - [Toy Cars](http://codeforces.com/contest/545/problem/A) | :x: | - | - |
 | 55 | A - [DZY Loves Hash](http://codeforces.com/contest/447/problem/A) | :x: | - | - |
