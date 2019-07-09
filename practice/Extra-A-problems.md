@@ -54,11 +54,11 @@
 | 50 | A - [Game With Sticks](http://codeforces.com/contest/451/problem/A) | [✔️](../Code&#32;Forces/PY/Game%20With%20Sticks.py) | 1 | Simple implementation, math |
 | 51 | A - [Vasya and Socks](http://codeforces.com/contest/460/problem/A) | [✔️](../Code&#32;Forces/PY/Vasya%20and%20Socks.py) | 1 | Simple implementation |
 | 52 | A - [Dima and Friends](http://codeforces.com/contest/272/problem/A) | [✔️](../Code&#32;Forces/PY/Dima%20and%20Friends.py) | 1 | Simple implementation |
-| 53 | A - [Nicholas and Permutation](http://codeforces.com/contest/676/problem/A) | :x: | - | - |
-| 54 | A - [Toy Cars](http://codeforces.com/contest/545/problem/A) | :x: | - | - |
-| 55 | A - [DZY Loves Hash](http://codeforces.com/contest/447/problem/A) | :x: | - | - |
-| 56 | A - [HQ9+](http://codeforces.com/contest/133/problem/A) | :x: | - | - |
-| 57 | A - [Holidays](http://codeforces.com/contest/670/problem/A) | :x: | - | - |
+| 53 | A - [Nicholas and Permutation](http://codeforces.com/contest/676/problem/A) | [✔️](../Code&#32;Forces/PY/Nicholas%20and%20Permutation.py) | 1 | Simple implementation |
+| 54 | A - [Toy Cars](http://codeforces.com/contest/545/problem/A) | [✔️](../Code&#32;Forces/PY/Toy%20Cars.py) | 1 | Simple implementation |
+| 55 | A - [DZY Loves Hash](http://codeforces.com/contest/447/problem/A) | [✔️](../Code&#32;Forces/CPP/DZY%20Loves%20Hash.cpp) | 3 | Simple implementation |
+| 56 | A - [HQ9+](http://codeforces.com/contest/133/problem/A) | [✔️](../Code&#32;Forces/CPP/HQ9+.cpp) | 2 | Simple implementation |
+| 57 | A - [Holidays](http://codeforces.com/contest/670/problem/A) | [✔️](../Code&#32;Forces/PY/Holidays.py) | 1 | Simple implementation, maths \_(-.-)_/ |
 | 58 | A - [Dividing Orange](http://codeforces.com/contest/244/problem/A) | :x: | - | - |
 | 59 | A - [Haiku](http://codeforces.com/contest/78/problem/A) | :x: | - | - |
 | 60 | A - [System of Equations](http://codeforces.com/contest/214/problem/A) | :x: | - | - |
