@@ -64,9 +64,9 @@
 | 60 | A - [System of Equations](http://codeforces.com/contest/214/problem/A) | [✔️](../Code&#32;Forces/PY/System%20of%20Equations.py) | 1 | Simple implementation |
 | 61 | A - [IQ test](http://codeforces.com/contest/25/problem/A) | [✔️](../Code&#32;Forces/PY/IQ%20test.py) | 1 | Simple implementation |
 | 62 | A - [Contest](http://codeforces.com/contest/501/problem/A) | [✔️](../Code&#32;Forces/CPP/Contest.cpp) | 1 | Simple implementation |
-| 63 | A - [Restoring Password](http://codeforces.com/contest/94/problem/A) | :x: | - | - |
-| 64 | A - [Valera and Plates](http://codeforces.com/contest/369/problem/A) | :x: | - | - |
-| 65 | A - [Minimum Difficulty](http://codeforces.com/contest/496/problem/A) | :x: | - | - |
+| 63 | A - [Restoring Password](http://codeforces.com/contest/94/problem/A) | [✔️](../Code&#32;Forces/PY/Restoring%20Password.py) | 1 | Simple implementation |
+| 64 | A - [Valera and Plates](http://codeforces.com/contest/369/problem/A) | [✔️](../Code&#32;Forces/CPP/Valera%20and%20Plates.cpp) | 1 | Simple implementation |
+| 65 | A - [Minimum Difficulty](http://codeforces.com/contest/496/problem/A) | [✔️](../Code&#32;Forces/PY/Minimum%20Difficulty.py) | 1 | bruteforce |
 | 66 | A - [Little Elephant and Function](http://codeforces.com/contest/221/problem/A) | :x: | - | - |
 | 67 | A - [Collecting Beats is Fun](http://codeforces.com/contest/373/problem/A) | :x: | - | - |
 | 68 | A - [Letter](http://codeforces.com/contest/14/problem/A) | :x: | - | - |
