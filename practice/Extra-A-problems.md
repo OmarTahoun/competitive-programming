@@ -59,11 +59,11 @@
 | 55 | A - [DZY Loves Hash](http://codeforces.com/contest/447/problem/A) | [✔️](../Code&#32;Forces/CPP/DZY%20Loves%20Hash.cpp) | 3 | Simple implementation |
 | 56 | A - [HQ9+](http://codeforces.com/contest/133/problem/A) | [✔️](../Code&#32;Forces/CPP/HQ9+.cpp) | 2 | Simple implementation |
 | 57 | A - [Holidays](http://codeforces.com/contest/670/problem/A) | [✔️](../Code&#32;Forces/PY/Holidays.py) | 1 | Simple implementation, maths \_(-.-)_/ |
-| 58 | A - [Dividing Orange](http://codeforces.com/contest/244/problem/A) | :x: | - | - |
-| 59 | A - [Haiku](http://codeforces.com/contest/78/problem/A) | :x: | - | - |
-| 60 | A - [System of Equations](http://codeforces.com/contest/214/problem/A) | :x: | - | - |
-| 61 | A - [IQ test](http://codeforces.com/contest/25/problem/A) | :x: | - | - |
-| 62 | A - [Contest](http://codeforces.com/contest/501/problem/A) | :x: | - | - |
+| 58 | A - [Dividing Orange](http://codeforces.com/contest/244/problem/A) | [✔️](../Code&#32;Forces/PY/Dividing%20Orange.py) | 1 | Simple implementation |
+| 59 | A - [Haiku](http://codeforces.com/contest/78/problem/A) | [✔️](../Code&#32;Forces/PY/Haiku.py) | 1 | Simple implementation |
+| 60 | A - [System of Equations](http://codeforces.com/contest/214/problem/A) | [✔️](../Code&#32;Forces/PY/System%20of%20Equations.py) | 1 | Simple implementation |
+| 61 | A - [IQ test](http://codeforces.com/contest/25/problem/A) | [✔️](../Code&#32;Forces/PY/IQ%20test.py) | 1 | Simple implementation |
+| 62 | A - [Contest](http://codeforces.com/contest/501/problem/A) | [✔️](../Code&#32;Forces/CPP/Contest.cpp) | 1 | Simple implementation |
 | 63 | A - [Restoring Password](http://codeforces.com/contest/94/problem/A) | :x: | - | - |
 | 64 | A - [Valera and Plates](http://codeforces.com/contest/369/problem/A) | :x: | - | - |
 | 65 | A - [Minimum Difficulty](http://codeforces.com/contest/496/problem/A) | :x: | - | - |
