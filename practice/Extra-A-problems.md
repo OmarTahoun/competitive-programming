@@ -67,11 +67,11 @@
 | 63 | A - [Restoring Password](http://codeforces.com/contest/94/problem/A) | [✔️](../Code&#32;Forces/PY/Restoring%20Password.py) | 1 | Simple implementation |
 | 64 | A - [Valera and Plates](http://codeforces.com/contest/369/problem/A) | [✔️](../Code&#32;Forces/CPP/Valera%20and%20Plates.cpp) | 1 | Simple implementation |
 | 65 | A - [Minimum Difficulty](http://codeforces.com/contest/496/problem/A) | [✔️](../Code&#32;Forces/PY/Minimum%20Difficulty.py) | 1 | bruteforce |
-| 66 | A - [Little Elephant and Function](http://codeforces.com/contest/221/problem/A) | :x: | - | - |
-| 67 | A - [Collecting Beats is Fun](http://codeforces.com/contest/373/problem/A) | :x: | - | - |
-| 68 | A - [Letter](http://codeforces.com/contest/14/problem/A) | :x: | - | - |
-| 69 | A - [Kefa and First Steps](http://codeforces.com/contest/580/problem/A) | :x: | - | - |
-| 70 | A - [Ilya and Bank Account](http://codeforces.com/contest/313/problem/A) | :x: | - | - |
+| 66 | A - [Little Elephant and Function](http://codeforces.com/contest/221/problem/A) | [✔️](../Code&#32;Forces/PY/Little%20Elephant%20and%20Function.py) | 1 | Simple implementation |
+| 67 | A - [Collecting Beats is Fun](http://codeforces.com/contest/373/problem/A) | [✔️](../Code&#32;Forces/PY/Collecting%20Beats%20is%20Fun.py) | 1 | Simple implementation |
+| 68 | A - [Letter](http://codeforces.com/contest/14/problem/A) | [✔️](../Code&#32;Forces/PY/Letter.py) | 1 | Simple implementation |
+| 69 | A - [Kefa and First Steps](http://codeforces.com/contest/580/problem/A) | [✔️](../Code&#32;Forces/PY/Kefa%20and%20First%20Steps.py) | 1 | Simple implementation, bruteforce |
+| 70 | A - [Ilya and Bank Account](http://codeforces.com/contest/313/problem/A) | [✔️](../Code&#32;Forces/PY/Ilya%20and%20Bank%20Account.py) | 1 | Simple implementation, bruteforce |
 | 71 | A - [Uncowed Forces](http://codeforces.com/contest/604/problem/A) | :x: | - | - |
 | 72 | A - [Reconnaissance 2](http://codeforces.com/contest/34/problem/A) | :x: | - | - |
 | 73 | A - [Lucky Ticket](http://codeforces.com/contest/146/problem/A) | :x: | - | - |
