@@ -80,7 +80,7 @@
 | 76 | A - [Ostap and Grasshopper](http://codeforces.com/contest/735/problem/A) | [✔️](../Code&#32;Forces/PY/Ostap%20and%20Grasshopper.py) | 1 | Brute force,  implmentation..Nice question :D |
 | 77 | A - [The number of positions](http://codeforces.com/contest/124/problem/A) | [✔️](../Code&#32;Forces/PY/The%20number%20of%20positions.py) | 1 | Brute force, loob |
 | 78 | A - [Table](http://codeforces.com/contest/359/problem/A) | [✔️](../Code&#32;Forces/PY/Table.py) | 1 | Simple implementation |
-| 79 | A - [Tavas and Nafas](http://codeforces.com/contest/535/problem/A) | :x: | - | - |
+| 79 | A - [Tavas and Nafas](http://codeforces.com/contest/535/problem/A) | [✔️](../Code&#32;Forces/PY/Tavas%20and%20Nafas.py) | 1 | Simple implementation |
 | 80 | A - [Watermelon](http://codeforces.com/contest/4/problem/A) | [✔️](../Code&#32;Forces/PY/Watermelon.py) | 1 | Simple, watermelon |
 | 81 | A - [Let's Watch Football](http://codeforces.com/contest/195/problem/A) | :x: | - | - |
 | 82 | A - [Initial Bet](http://codeforces.com/contest/478/problem/A) | :x: | - | - |
