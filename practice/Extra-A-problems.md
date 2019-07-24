@@ -72,16 +72,16 @@
 | 68 | A - [Letter](http://codeforces.com/contest/14/problem/A) | [✔️](../Code&#32;Forces/PY/Letter.py) | 1 | Simple implementation |
 | 69 | A - [Kefa and First Steps](http://codeforces.com/contest/580/problem/A) | [✔️](../Code&#32;Forces/PY/Kefa%20and%20First%20Steps.py) | 1 | Simple implementation, bruteforce |
 | 70 | A - [Ilya and Bank Account](http://codeforces.com/contest/313/problem/A) | [✔️](../Code&#32;Forces/PY/Ilya%20and%20Bank%20Account.py) | 1 | Simple implementation, bruteforce |
-| 71 | A - [Uncowed Forces](http://codeforces.com/contest/604/problem/A) | :x: | - | - |
-| 72 | A - [Reconnaissance 2](http://codeforces.com/contest/34/problem/A) | :x: | - | - |
-| 73 | A - [Lucky Ticket](http://codeforces.com/contest/146/problem/A) | :x: | - | - |
-| 74 | A - [Chat room](http://codeforces.com/contest/58/problem/A) | :x: | - | - |
-| 75 | A - [George and Sleep](http://codeforces.com/contest/387/problem/A) | :x: | - | - |
-| 76 | A - [Ostap and Grasshopper](http://codeforces.com/contest/735/problem/A) | :x: | - | - |
-| 77 | A - [The number of positions](http://codeforces.com/contest/124/problem/A) | :x: | - | - |
-| 78 | A - [Table](http://codeforces.com/contest/359/problem/A) | :x: | - | - |
+| 71 | A - [Uncowed Forces](http://codeforces.com/contest/604/problem/A) | [✔️](../Code&#32;Forces/PY/Uncowed%20Forces.py) | 1 | Simple implementation, bruteforce |
+| 72 | A - [Reconnaissance 2](http://codeforces.com/contest/34/problem/A) | [✔️](../Code&#32;Forces/PY/Reconnaissance%202.py) | 2 | Simple implementation |
+| 73 | A - [Lucky Ticket](http://codeforces.com/contest/146/problem/A) | [✔️](../Code&#32;Forces/PY/Lucky%20Ticket.py) | 2 | Simple implementation |
+| 74 | A - [Chat room](http://codeforces.com/contest/58/problem/A) | [✔️](../Code&#32;Forces/PY/Chat%20room.py) | 2 | Simple implementation |
+| 75 | A - [George and Sleep](http://codeforces.com/contest/387/problem/A) | [✔️](../Code&#32;Forces/PY/George%20and%20Sleep.py) | 2 | Simple implementation, O(1) |
+| 76 | A - [Ostap and Grasshopper](http://codeforces.com/contest/735/problem/A) | [✔️](../Code&#32;Forces/PY/Ostap%20and%20Grasshopper.py) | 1 | Brute force,  implmentation..Nice question :D |
+| 77 | A - [The number of positions](http://codeforces.com/contest/124/problem/A) | [✔️](../Code&#32;Forces/PY/The%20number%20of%20positions.py) | 1 | Brute force, loob |
+| 78 | A - [Table](http://codeforces.com/contest/359/problem/A) | [✔️](../Code&#32;Forces/PY/Table.py) | 1 | Simple implementation |
 | 79 | A - [Tavas and Nafas](http://codeforces.com/contest/535/problem/A) | :x: | - | - |
-| 80 | A - [Watermelon](http://codeforces.com/contest/4/problem/A) | :x: | - | - |
+| 80 | A - [Watermelon](http://codeforces.com/contest/4/problem/A) | [✔️](../Code&#32;Forces/PY/Watermelon.py) | 1 | Simple, watermelon |
 | 81 | A - [Let's Watch Football](http://codeforces.com/contest/195/problem/A) | :x: | - | - |
 | 82 | A - [Initial Bet](http://codeforces.com/contest/478/problem/A) | :x: | - | - |
 | 83 | A - [Saitama Destroys Hotel](http://codeforces.com/contest/608/problem/A) | :x: | - | - |
