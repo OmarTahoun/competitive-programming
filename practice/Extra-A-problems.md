@@ -82,16 +82,16 @@
 | 78 | A - [Table](http://codeforces.com/contest/359/problem/A) | [✔️](../Code&#32;Forces/PY/Table.py) | 1 | Simple implementation |
 | 79 | A - [Tavas and Nafas](http://codeforces.com/contest/535/problem/A) | [✔️](../Code&#32;Forces/PY/Tavas%20and%20Nafas.py) | 1 | Simple implementation |
 | 80 | A - [Watermelon](http://codeforces.com/contest/4/problem/A) | [✔️](../Code&#32;Forces/PY/Watermelon.py) | 1 | Simple, watermelon |
-| 81 | A - [Let's Watch Football](http://codeforces.com/contest/195/problem/A) | :x: | - | - |
-| 82 | A - [Initial Bet](http://codeforces.com/contest/478/problem/A) | :x: | - | - |
-| 83 | A - [Saitama Destroys Hotel](http://codeforces.com/contest/608/problem/A) | :x: | - | - |
-| 84 | A - [Queue on Bus Stop](http://codeforces.com/contest/435/problem/A) | :x: | - | - |
-| 85 | A - [Bicycle Chain](http://codeforces.com/contest/215/problem/A) | :x: | - | - |
-| 86 | A - [Little Elephant and Rozdil](http://codeforces.com/contest/205/problem/A) | :x: | - | - |
-| 87 | A - [Amr and Music](http://codeforces.com/contest/507/problem/A) | :x: | - | - |
-| 88 | A - [Marks](http://codeforces.com/contest/152/problem/A) | :x: | - | - |
-| 89 | A - [Postcards and photos](http://codeforces.com/contest/137/problem/A) | :x: | - | - |
-| 90 | A - [Business trip](http://codeforces.com/contest/149/problem/A) | :x: | - | - |
+| 81 | A - [Let's Watch Football](http://codeforces.com/contest/195/problem/A) | [✔️](../Code&#32;Forces/CPP/Let's%20Watch%20Football.cpp) | 1 | bruteforce |
+| 82 | A - [Initial Bet](http://codeforces.com/contest/478/problem/A) | [✔️](../Code&#32;Forces/CPP/Initial%20Bet.cpp) | 1 | simple implementation |
+| 83 | A - [Saitama Destroys Hotel](http://codeforces.com/contest/608/problem/A) | [✔️](../Code&#32;Forces/PY/Saitama%20Destroys%20Hotel.py) | 3 | Cool idea, looked at the tutorial |
+| 84 | A - [Queue on Bus Stop](http://codeforces.com/contest/435/problem/A) | [✔️](../Code&#32;Forces/CPP/Queue%20on%20Bus%20Stop.cpp) | 1 | Simple, implementaiton |
+| 85 | A - [Bicycle Chain](http://codeforces.com/contest/215/problem/A) | [✔️](../Code&#32;Forces/CPP/Bicycle%20Chain.cpp) | 1 | Simple, implementaiton |
+| 86 | A - [Little Elephant and Rozdil](http://codeforces.com/contest/205/problem/A) | [✔️](../Code&#32;Forces/CPP/Little%20Elephant%20and%20Rozdil.cpp) | 1 | Simple, implementaiton |
+| 87 | A - [Amr and Music](http://codeforces.com/contest/507/problem/A) | [✔️](../Code&#32;Forces/CPP/Amr%20and%20Music.cpp) | 1 | Sorting, greedy |
+| 88 | A - [Marks](http://codeforces.com/contest/152/problem/A) | [✔️](../Code&#32;Forces/PY/Marks.py) | 1 | implementation |
+| 89 | A - [Postcards and photos](http://codeforces.com/contest/137/problem/A) | [✔️](../Code&#32;Forces/PY/Postcards%20and%20photos.py) | 1 | implementation |
+| 90 | A - [Business trip](http://codeforces.com/contest/149/problem/A) | [✔️](../Code&#32;Forces/PY/Business%20trip.py) | 1 | implementation |
 | 91 | A - [Drazil and Date](http://codeforces.com/contest/515/problem/A) | :x: | - | - |
 | 92 | A - [Multiplication Table](http://codeforces.com/contest/577/problem/A) | :x: | - | - |
 | 93 | A - [Exam](http://codeforces.com/contest/534/problem/A) | :x: | - | - |
