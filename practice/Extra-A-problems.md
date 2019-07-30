@@ -92,9 +92,9 @@
 | 88 | A - [Marks](http://codeforces.com/contest/152/problem/A) | [✔️](../Code&#32;Forces/PY/Marks.py) | 1 | implementation |
 | 89 | A - [Postcards and photos](http://codeforces.com/contest/137/problem/A) | [✔️](../Code&#32;Forces/PY/Postcards%20and%20photos.py) | 1 | implementation |
 | 90 | A - [Business trip](http://codeforces.com/contest/149/problem/A) | [✔️](../Code&#32;Forces/PY/Business%20trip.py) | 1 | implementation |
-| 91 | A - [Drazil and Date](http://codeforces.com/contest/515/problem/A) | :x: | - | - |
-| 92 | A - [Multiplication Table](http://codeforces.com/contest/577/problem/A) | :x: | - | - |
-| 93 | A - [Exam](http://codeforces.com/contest/534/problem/A) | :x: | - | - |
+| 91 | A - [Drazil and Date](http://codeforces.com/contest/515/problem/A) | [✔️](../Code&#32;Forces/PY/Drazil%20and%20Date.py) | 1 | implementation |
+| 92 | A - [Multiplication Table](http://codeforces.com/contest/577/problem/A) | [✔️](../Code&#32;Forces/CPP/Multiplication%20Table.cpp) | 1 | implementation |
+| 93 | A - [Exam](http://codeforces.com/contest/534/problem/A) | [✔️](../Code&#32;Forces/CPP/Exam.cpp) | 1 | brute force |
 | 94 | A - [Alena's Schedule](http://codeforces.com/contest/586/problem/A) | :x: | - | - |
 | 95 | A - [Interview](http://codeforces.com/contest/631/problem/A) | :x: | - | - |
 | 96 | A - [Lucky Division](http://codeforces.com/contest/122/problem/A) | :x: | - | - |
