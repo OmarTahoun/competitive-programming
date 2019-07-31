@@ -95,10 +95,10 @@
 | 91 | A - [Drazil and Date](http://codeforces.com/contest/515/problem/A) | [✔️](../Code&#32;Forces/PY/Drazil%20and%20Date.py) | 1 | implementation |
 | 92 | A - [Multiplication Table](http://codeforces.com/contest/577/problem/A) | [✔️](../Code&#32;Forces/CPP/Multiplication%20Table.cpp) | 1 | implementation |
 | 93 | A - [Exam](http://codeforces.com/contest/534/problem/A) | [✔️](../Code&#32;Forces/CPP/Exam.cpp) | 1 | brute force |
-| 94 | A - [Alena's Schedule](http://codeforces.com/contest/586/problem/A) | :x: | - | - |
-| 95 | A - [Interview](http://codeforces.com/contest/631/problem/A) | :x: | - | - |
-| 96 | A - [Lucky Division](http://codeforces.com/contest/122/problem/A) | :x: | - | - |
-| 97 | A - [Appleman and Easy Task](http://codeforces.com/contest/462/problem/A) | :x: | - | - |
+| 94 | A - [Alena's Schedule](http://codeforces.com/contest/586/problem/A) | [✔️](../Code&#32;Forces/PY/Alena's%20Schedule.py) | 1 | loop, tutorial |
+| 95 | A - [Interview](http://codeforces.com/contest/631/problem/A) | [✔️](../Code&#32;Forces/PY/Interview.py) | 1 | loop simple |
+| 96 | A - [Lucky Division](http://codeforces.com/contest/122/problem/A) | [✔️](../Code&#32;Forces/PY/Lucky%20Division.py) | 1 | simple implementation |
+| 97 | A - [Appleman and Easy Task](http://codeforces.com/contest/462/problem/A) | [✔️](../Code&#32;Forces/PY/Appleman%20and%20Easy%20Task.py) | 1 | Peice of cake |
 | 98 | A - [Vasya and Digital Root](http://codeforces.com/contest/355/problem/A) | :x: | - | - |
 | 99 | A - [Parallelepiped](http://codeforces.com/contest/224/problem/A) | :x: | - | - |
 | 100 | A - [Group of Students](http://codeforces.com/contest/357/problem/A) | :x: | - | - |
