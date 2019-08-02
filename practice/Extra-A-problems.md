@@ -99,11 +99,11 @@
 | 95 | A - [Interview](http://codeforces.com/contest/631/problem/A) | [✔️](../Code&#32;Forces/PY/Interview.py) | 1 | loop simple |
 | 96 | A - [Lucky Division](http://codeforces.com/contest/122/problem/A) | [✔️](../Code&#32;Forces/PY/Lucky%20Division.py) | 1 | simple implementation |
 | 97 | A - [Appleman and Easy Task](http://codeforces.com/contest/462/problem/A) | [✔️](../Code&#32;Forces/PY/Appleman%20and%20Easy%20Task.py) | 1 | Peice of cake |
-| 98 | A - [Vasya and Digital Root](http://codeforces.com/contest/355/problem/A) | :x: | - | - |
-| 99 | A - [Parallelepiped](http://codeforces.com/contest/224/problem/A) | :x: | - | - |
-| 100 | A - [Group of Students](http://codeforces.com/contest/357/problem/A) | :x: | - | - |
-| 101 | A - [Joysticks](http://codeforces.com/contest/651/problem/A) | :x: | - | - |
-| 102 | A - [Array](http://codeforces.com/contest/300/problem/A) | :x: | - | - |
+| 98 | A - [Vasya and Digital Root](http://codeforces.com/contest/355/problem/A) | [✔️](../Code&#32;Forces/PY/Vasya%20and%20Digital%20Root.py) | 1 | Simple implementation |
+| 99 | A - [Parallelepiped](http://codeforces.com/contest/224/problem/A) | [✔️](../Code&#32;Forces/PY/Parallelepiped.py) | 1 | Simple implementation |
+| 100 | A - [Group of Students](http://codeforces.com/contest/357/problem/A) | [✔️](../Code&#32;Forces/PY/Group%20of%20Students.py) | 2 | Simple implementation |
+| 101 | A - [Joysticks](http://codeforces.com/contest/651/problem/A) | [✔️](../Code&#32;Forces/PY/Joysticks.py) | 2 | Simple implementation |
+| 102 | A - [Array](http://codeforces.com/contest/300/problem/A) | [✔️](../Code&#32;Forces/PY/Array.py) | 1 | Simple implementation |
 | 103 | A - [Round House](http://codeforces.com/contest/659/problem/A) | :x: | - | - |
 | 104 | A - [Lala Land and Apple Trees](http://codeforces.com/contest/558/problem/A) | :x: | - | - |
 | 105 | A - [Autocomplete](http://codeforces.com/contest/53/problem/A) | :x: | - | - |
