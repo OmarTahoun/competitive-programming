@@ -104,9 +104,9 @@
 | 100 | A - [Group of Students](http://codeforces.com/contest/357/problem/A) | [✔️](../Code&#32;Forces/PY/Group%20of%20Students.py) | 2 | Simple implementation |
 | 101 | A - [Joysticks](http://codeforces.com/contest/651/problem/A) | [✔️](../Code&#32;Forces/PY/Joysticks.py) | 2 | Simple implementation |
 | 102 | A - [Array](http://codeforces.com/contest/300/problem/A) | [✔️](../Code&#32;Forces/PY/Array.py) | 1 | Simple implementation |
-| 103 | A - [Round House](http://codeforces.com/contest/659/problem/A) | :x: | - | - |
-| 104 | A - [Lala Land and Apple Trees](http://codeforces.com/contest/558/problem/A) | :x: | - | - |
-| 105 | A - [Autocomplete](http://codeforces.com/contest/53/problem/A) | :x: | - | - |
-| 106 | A - [Digital Counter](http://codeforces.com/contest/495/problem/A) | :x: | - | - |
-| 107 | A - [Vitaliy and Pie](http://codeforces.com/contest/525/problem/A) | :x: | - | - |
-| 108 | A - [Life Without Zeros](http://codeforces.com/contest/75/problem/A) | :x: | - | - |
+| 103 | A - [Round House](http://codeforces.com/contest/659/problem/A) | [✔️](../Code&#32;Forces/PY/Round%20House.py) | 1 | Simple implementation |
+| 104 | A - [Lala Land and Apple Trees](http://codeforces.com/contest/558/problem/A) | [✔️](../Code&#32;Forces/CPP/Lala%20Land%20and%20Apple%20Trees.cpp) | 1 | Simple implementation, brute force |
+| 105 | A - [Autocomplete](http://codeforces.com/contest/53/problem/A) | [✔️](../Code&#32;Forces/CPP/Autocomplete.cpp) | 1 | simple map |
+| 106 | A - [Digital Counter](http://codeforces.com/contest/495/problem/A) | [✔️](../Code&#32;Forces/CPP/Digital%20Counter.cpp) | 1 | simple implement |
+| 107 | A - [Vitaliy and Pie](http://codeforces.com/contest/525/problem/A) | [✔️](../Code&#32;Forces/CPP/Vitaliy%20and%20Pie.cpp) | 1 | simple implement |
+| 108 | A - [Life Without Zeros](http://codeforces.com/contest/75/problem/A) | [✔️](../Code&#32;Forces/PY/Life%20Without%20Zeros.py) | 1 | simple implement |
