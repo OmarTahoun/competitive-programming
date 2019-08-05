@@ -3,7 +3,7 @@ import csv
 import json
 
 # Reading problems from csv file
-with open("Extra-A-problems.csv", 'r') as data:
+with open("B Questions List.csv", 'r') as data:
 	lines = csv.reader(data)
 	dataset = list(lines)
 
@@ -23,7 +23,7 @@ for problem in dataset:
 with open("problems.js", "w") as problems_file:
     json.dump(problems, problems_file)
 # Writting the Data to the MarkDown file
-file = open("Extra-A-problems.md", "a")
+file = open("B Questions.md", "a")
 for i in range(len(problems)):
-    line = "| "+str(i)+" | A - ["+problems[i][0]+"]("+problems[i][1]+") | :x: | - | - |\n"
+    line = "| "+str(i)+" | B - ["+problems[i][0]+"]("+problems[i][1]+") | :x: | - | - |\n"
     file.write(line)
