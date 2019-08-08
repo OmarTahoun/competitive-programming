@@ -1,7 +1,7 @@
 ## CodeForces B - Div2. problems for practicing
 | # | Problem  | Status | Submission Count | Notes |
 | --- | --- | --- | --- | --- |
-| 0 | B - [Decoding](http://codeforces.com/contest/746/problem/B) | :x: | - | - |
+| 0 | B - [Decoding](http://codeforces.com/contest/746/problem/B) | [✔️](../Code&#32;Forces/PY/Decoding.py) | 2 | Simple implementation |
 | 1 | B - [Petya and Countryside](http://codeforces.com/contest/66/problem/B) | :x: | - | - |
 | 2 | B - [Bear and Finding Criminals](http://codeforces.com/contest/680/problem/B) | :x: | - | - |
 | 3 | B - [Burglar and Matches](http://codeforces.com/contest/16/problem/B) | :x: | - | - |

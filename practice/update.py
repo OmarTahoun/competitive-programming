@@ -27,13 +27,13 @@ def update(id, status, lang, count, notes):
 
 def update_file():
     # Writting the Data to the MarkDown file
-    file = open("Extra-A-problems.md", "w")
-    file.write("## CodeForces A - Div2. problems for practicing\n")
+    file = open("B Questions.md", "w")
+    file.write("## CodeForces B - Div2. problems for practicing\n")
     file.write("| # | Problem  | Status | Submission Count | Notes |\n")
     file.write("| --- | --- | --- | --- | --- |\n")
 
     for i in range(len(problems)):
-        line = "| "+str(i)+" | A - ["+problems[i][0]+"]("+problems[i][1]+") | "+problems[i][2]+" | "+problems[i][3]+" | "+problems[i][4]+" |\n"
+        line = "| "+str(i)+" | B - ["+problems[i][0]+"]("+problems[i][1]+") | "+problems[i][2]+" | "+problems[i][3]+" | "+problems[i][4]+" |\n"
         file.write(line)
 
 
