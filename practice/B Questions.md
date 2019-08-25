@@ -2,9 +2,9 @@
 | # | Problem  | Status | Submission Count | Notes |
 | --- | --- | --- | --- | --- |
 | 0 | B - [Decoding](http://codeforces.com/contest/746/problem/B) | [✔️](../Code&#32;Forces/PY/Decoding.py) | 2 | Simple implementation |
-| 1 | B - [Petya and Countryside](http://codeforces.com/contest/66/problem/B) | :x: | - | - |
-| 2 | B - [Bear and Finding Criminals](http://codeforces.com/contest/680/problem/B) | :x: | - | - |
-| 3 | B - [Burglar and Matches](http://codeforces.com/contest/16/problem/B) | :x: | - | - |
+| 1 | B - [Petya and Countryside](http://codeforces.com/contest/66/problem/B) | [✔️](../Code&#32;Forces/CPP/Petya%20and%20Countryside.cpp) | 1 | Brute force |
+| 2 | B - [Bear and Finding Criminals](http://codeforces.com/contest/680/problem/B) | [✔️](../Code&#32;Forces/PY/Bear%20and%20Finding%20Criminals.py) | 1 | implementation, brute force |
+| 3 | B - [Burglar and Matches](http://codeforces.com/contest/16/problem/B) | [✔️](../Code&#32;Forces/CPP/Burglar%20and%20Matches.cpp) | 2 | greedy, sorting, bruteforce |
 | 4 | B - [Caisa and Pylons](http://codeforces.com/contest/463/problem/B) | :x: | - | - |
 | 5 | B - [Sum of Digits](http://codeforces.com/contest/102/problem/B) | :x: | - | - |
 | 6 | B - [Coins](http://codeforces.com/contest/47/problem/B) | :x: | - | - |
