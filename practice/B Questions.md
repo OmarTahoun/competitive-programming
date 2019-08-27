@@ -6,8 +6,8 @@
 | 2 | B - [Bear and Finding Criminals](http://codeforces.com/contest/680/problem/B) | [✔️](../Code&#32;Forces/PY/Bear%20and%20Finding%20Criminals.py) | 1 | implementation, brute force |
 | 3 | B - [Burglar and Matches](http://codeforces.com/contest/16/problem/B) | [✔️](../Code&#32;Forces/CPP/Burglar%20and%20Matches.cpp) | 2 | greedy, sorting, bruteforce |
 | 4 | B - [Caisa and Pylons](http://codeforces.com/contest/463/problem/B) | [✔️](../Code&#32;Forces/CPP/Caisa%20and%20Pylons.cpp) | 2 | implementation bruteforce |
-| 5 | B - [Sum of Digits](http://codeforces.com/contest/102/problem/B) | [✔️](../Code&#32;Forces/PY/Sum%20of%20Digits.py) | 1 | simple implementaiton |
-| 6 | B - [Coins](http://codeforces.com/contest/47/problem/B) | :x: | - | - |
+| 5 | B - [Sum of Digits](http://codeforces.com/contest/102/problem/B) | [✔️](../Code&#32;Forces/PY/Sum%20of%20Digits.py) | 2 | brute force |
+| 6 | B - [Coins](http://codeforces.com/contest/47/problem/B) | [✔️](../Code&#32;Forces/PY/Coins.py) | 1 | simple implementation |
 | 7 | B - [Vanya and Lanterns](http://codeforces.com/contest/492/problem/B) | :x: | - | - |
 | 8 | B - [Effective Approach](http://codeforces.com/contest/227/problem/B) | :x: | - | - |
 | 9 | B - [Easter Eggs](http://codeforces.com/contest/78/problem/B) | :x: | - | - |
