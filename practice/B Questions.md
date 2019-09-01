@@ -10,8 +10,8 @@
 | 6 | B - [Coins](http://codeforces.com/contest/47/problem/B) | [✔️](../Code&#32;Forces/PY/Coins.py) | 1 | simple implementation |
 | 7 | B - [Vanya and Lanterns](http://codeforces.com/contest/492/problem/B) | [✔️](../Code&#32;Forces/CPP/Vanya%20and%20Lanterns.cpp) | 1 | simple implementation |
 | 8 | B - [Effective Approach](http://codeforces.com/contest/227/problem/B) | [✔️](../Code&#32;Forces/CPP/Effective%20Approach.cpp) | 1 | simple implementation |
-| 9 | B - [Easter Eggs](http://codeforces.com/contest/78/problem/B) | :x: | - | - |
-| 10 | B - [Kuriyama Mirai's Stones](http://codeforces.com/contest/433/problem/B) | :x: | - | - |
+| 9 | B - [Easter Eggs](http://codeforces.com/contest/78/problem/B) | [✔️](../Code&#32;Forces/PY/Easter%20Eggs.py) | 1 | simple implementation |
+| 10 | B - [Kuriyama Mirai's Stones](http://codeforces.com/contest/433/problem/B) | [✔️](../Code&#32;Forces/CPP/Kuriyama%20Mirai's%20Stones.cpp) | 1 | simple implementation |
 | 11 | B - [President's Office](http://codeforces.com/contest/6/problem/B) | :x: | - | - |
 | 12 | B - [Fence](http://codeforces.com/contest/363/problem/B) | :x: | - | - |
 | 13 | B - [Lovely Palindromes](http://codeforces.com/contest/688/problem/B) | :x: | - | - |
