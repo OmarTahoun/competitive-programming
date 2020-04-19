@@ -29,7 +29,7 @@ void dijkstra(int node){
 
 int main(){
 	cin>>n>>k;
-	for (int i = 0; i < 3; ++i){
+	for (int i = 0; i < n-1; ++i){
 		int a, b, c;
 		cin>>a>>b>>c;
 		graph[a].push_back({b, c});
@@ -38,15 +38,9 @@ int main(){
 	memset(vis, 0, sizeof vis);
 	memset(dist, 0x3f3f3f3f, sizeof dist);
 	dijkstra(k);
-	for (int i = 1; i <= 4; ++i){
-		if(!vis[i]){
-			cout<<"-1"<<endl;
-			return 0;
-		}
-	}
 
 	int best = 0;
-	for (int i = 1; i <= 4; ++i){
+	for (int i = 1; i <= n; ++i){
 		best = max(best, dist[i]);
 	}
 	cout<<best<<endl;

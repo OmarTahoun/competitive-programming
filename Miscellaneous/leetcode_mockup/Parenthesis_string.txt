@@ -1,0 +1,11 @@
+Given a string sequence check it's validity.
+
+Validity: the string can be used in a valid arthemetic operation, Rules:
+ - Each openeing must be closed and vice versa.
+
+
+The string will have a wild card character "*" this can represent an oepening or a closing or an empty string.
+
+
+Aproach:
+count openings and closings and check normal validity

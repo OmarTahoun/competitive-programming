@@ -2,40 +2,38 @@
 using namespace std;
 
 
-bool sortbysec(const pair<int,int> &a, 
-              const pair<int,int> &b) 
-{ 
-    return (a.second > b.second); 
-} 
+long long n;
+int m;
+pair<long long , int> boxes[22];
 
+bool comp(const pair<long long, int>& lhs, const pair<long long, int>& rhs){
+	if(lhs.second == rhs.second)
+		return lhs.first > lhs.first;
+	return lhs.second > rhs.second;
+}
 int main(){
-	long long n, a, b, total=0;
-	int m;
-	int capacity = 0;
-
-	vector< pair<int, int> > boxes;
 	cin>>n>>m;
 	for (int i = 0; i < m; ++i){
+		int a, b;
 		cin>>a>>b;
-		boxes.push_back(make_pair(a,b));
+		boxes[i] = {a, b};
 	}
 
-	sort(boxes.begin(), boxes.end(), sortbysec);
+	sort(boxes, boxes+m, comp);
 
-	while(capacity<n && (int)boxes.size()>0){
-		if (boxes[0].first+capacity<=n){
-			total+=boxes[0].first * boxes[0].second;
-			capacity+=boxes[0].first;
-			boxes[0].first = 0;
+	int matches = 0;
+	for(int i = 0; i < m; ++i){
+		if(n<=0)
+			break;
+		if(n >= boxes[i].first){
+			matches += boxes[i].first * boxes[i].second;
+			n -= boxes[i].first;
 		}else{
-			total+= (n-capacity) * boxes[0].second;
-			boxes[0].first -= (n-capacity);
-			capacity = n;
+			matches += n * boxes[i].second;
+			n = 0;
 		}
-		if(boxes[0].first == 0)
-			boxes.erase(boxes.begin());
-
 	}
-	cout<<total<<endl;
+
+	cout<<matches<<endl;
 	return 0;
 }
