@@ -9,10 +9,10 @@
 | 5 | B - [Sum of Digits](http://codeforces.com/contest/102/problem/B) | [✔️](../Code&#32;Forces/CPP/Sum%20of%20Digits.cpp) | 1 | Easy |
 | 6 | B - [Coins](http://codeforces.com/contest/47/problem/B) | [✔️](../Code&#32;Forces/CPP/Coins.cpp) | 1 | Simple implementation with maps and sets |
 | 7 | B - [Vanya and Lanterns](http://codeforces.com/contest/492/problem/B) | [✔️](../Code&#32;Forces/CPP/Vanya%20and%20Lanterns.cpp) | 1 | Sort, find max distance |
-| 8 | B - [Effective Approach](http://codeforces.com/contest/227/problem/B) | [✔️](../Code&#32;Forces/CPP/Effective%20Approach.cpp) | 1 | simple implementation |
+| 8 | B - [Effective Approach](http://codeforces.com/contest/227/problem/B) | [✔️](../Code&#32;Forces/CPP/Effective%20Approach.cpp) | 2 | Simple map, over flow DUDE |
 | 9 | B - [Easter Eggs](http://codeforces.com/contest/78/problem/B) | [✔️](../Code&#32;Forces/PY/Easter%20Eggs.py) | 1 | simple implementation |
-| 10 | B - [Kuriyama Mirai's Stones](http://codeforces.com/contest/433/problem/B) | [✔️](../Code&#32;Forces/CPP/Kuriyama%20Mirai's%20Stones.cpp) | 1 | simple implementation |
-| 11 | B - [President's Office](http://codeforces.com/contest/6/problem/B) | [✔️](../Code&#32;Forces/CPP/President's%20Office.cpp) | 4 | You learn new things, fuck garbage memory |
+| 10 | B - [Kuriyama Mirai's Stones](http://codeforces.com/contest/433/problem/B) | [✔️](../Code&#32;Forces/CPP/Kuriyama%20Mirai's%20Stones.cpp) | 1 | Simple implementation |
+| 11 | B - [President's Office](http://codeforces.com/contest/6/problem/B) | [✔️](../Code&#32;Forces/CPP/President's%20Office.cpp) | 1 | Simple implementation |
 | 12 | B - [Fence](http://codeforces.com/contest/363/problem/B) | [✔️](../Code&#32;Forces/PY/Fence.py) | 2 | Python TLE :<<< |
 | 13 | B - [Lovely Palindromes](http://codeforces.com/contest/688/problem/B) | :x: | - | - |
 | 14 | B - [Sort the Array](http://codeforces.com/contest/451/problem/B) | :x: | - | - |
