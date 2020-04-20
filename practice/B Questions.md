@@ -13,7 +13,7 @@
 | 9 | B - [Easter Eggs](http://codeforces.com/contest/78/problem/B) | [✔️](../Code&#32;Forces/PY/Easter%20Eggs.py) | 1 | simple implementation |
 | 10 | B - [Kuriyama Mirai's Stones](http://codeforces.com/contest/433/problem/B) | [✔️](../Code&#32;Forces/CPP/Kuriyama%20Mirai's%20Stones.cpp) | 1 | Simple implementation |
 | 11 | B - [President's Office](http://codeforces.com/contest/6/problem/B) | [✔️](../Code&#32;Forces/CPP/President's%20Office.cpp) | 1 | Simple implementation |
-| 12 | B - [Fence](http://codeforces.com/contest/363/problem/B) | [✔️](../Code&#32;Forces/PY/Fence.py) | 2 | Python TLE :<<< |
+| 12 | B - [Fence](http://codeforces.com/contest/363/problem/B) | [✔️](../Code&#32;Forces/CPP/Fence.cpp) | 1 | Cumulative Sum |
 | 13 | B - [Lovely Palindromes](http://codeforces.com/contest/688/problem/B) | :x: | - | - |
 | 14 | B - [Sort the Array](http://codeforces.com/contest/451/problem/B) | :x: | - | - |
 | 15 | B - [Devu, the Dumb Guy](http://codeforces.com/contest/439/problem/B) | :x: | - | - |
