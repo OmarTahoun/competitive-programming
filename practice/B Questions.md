@@ -58,10 +58,10 @@
 | 54 | B - [Valera and Contest](http://codeforces.com/contest/369/problem/B) | :x: | - | - |
 | 55 | B - [Bear and Friendship Condition](http://codeforces.com/contest/791/problem/B) | :x: | - | - |
 | 56 | B - [Preparing Olympiad](http://codeforces.com/contest/550/problem/B) | :x: | - | - |
-| 57 | B - [Mashmokh and Tokens](http://codeforces.com/contest/415/problem/B) | :x: | - | - |
-| 58 | B - [Approximating a Constant Range](http://codeforces.com/contest/602/problem/B) | :x: | - | - |
-| 59 | B - [Gena's Code](http://codeforces.com/contest/614/problem/B) | :x: | - | - |
-| 60 | B - [OR in Matrix](http://codeforces.com/contest/486/problem/B) | :x: | - | - |
+| 57 | B - [Mashmokh and Tokens](http://codeforces.com/contest/415/problem/B) | [✔️](../Code&#32;Forces/CPP/Mashmokh%20and%20Tokens.cpp) | 2 | Math |
+| 58 | B - [Approximating a Constant Range](http://codeforces.com/contest/602/problem/B) | [✔️](../Code&#32;Forces/CPP/Approximating%20a%20Constant%20Range.cpp) | 2 | 2 Pointers |
+| 59 | B - [Gena's Code](http://codeforces.com/contest/614/problem/B) | [✔️](../Code&#32;Forces/CPP/Gena's%20Code.cpp) | 2 | Implementation |
+| 60 | B - [OR in Matrix](http://codeforces.com/contest/486/problem/B) | [✔️](../Code&#32;Forces/CPP/OR%20in%20Matrix.cpp) | 1 | Implementation |
 | 61 | B - [Fox And Two Dots](http://codeforces.com/contest/510/problem/B) | :x: | - | - |
 | 62 | B - [Routine Problem](http://codeforces.com/contest/337/problem/B) | :x: | - | - |
 | 63 | B - [Vasya and Wrestling](http://codeforces.com/contest/493/problem/B) | :x: | - | - |
