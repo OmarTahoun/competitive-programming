@@ -64,9 +64,9 @@
 | 60 | B - [OR in Matrix](http://codeforces.com/contest/486/problem/B) | [✔️](../Code&#32;Forces/CPP/OR%20in%20Matrix.cpp) | 1 | Implementation |
 | 61 | B - [Fox And Two Dots](http://codeforces.com/contest/510/problem/B) | [✔️](../Code&#32;Forces/CPP/Fox%20And%20Two%20Dots.cpp) | 1 | DFS from each character and trying all neighboring charchters if we reach a visited character then there is a cycle |
 | 62 | B - [Routine Problem](http://codeforces.com/contest/337/problem/B) | :x: | - | - |
-| 63 | B - [Vasya and Wrestling](http://codeforces.com/contest/493/problem/B) | :x: | - | - |
+| 63 | B - [Vasya and Wrestling](http://codeforces.com/contest/493/problem/B) | [✔️](../Code&#32;Forces/CPP/Vasya%20and%20Wrestling.cpp) | 2 | Simple implementation |
 | 64 | B - [Hamming Distance Sum](http://codeforces.com/contest/608/problem/B) | :x: | - | - |
-| 65 | B - [Wet Shark and Bishops](http://codeforces.com/contest/621/problem/B) | :x: | - | - |
+| 65 | B - [Wet Shark and Bishops](http://codeforces.com/contest/621/problem/B) | [✔️](../Code&#32;Forces/CPP/Wet%20Shark%20and%20Bishops.cpp) | 2 | Map and implementation |
 | 66 | B - [Kefa and Company](http://codeforces.com/contest/580/problem/B) | :x: | - | - |
 | 67 | B - [Tavas and SaDDas](http://codeforces.com/contest/535/problem/B) | :x: | - | - |
 | 68 | B - [Treasure Hunt](http://codeforces.com/contest/979/problem/B) | :x: | - | - |
