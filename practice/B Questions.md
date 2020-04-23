@@ -14,8 +14,8 @@
 | 10 | B - [Kuriyama Mirai's Stones](http://codeforces.com/contest/433/problem/B) | [✔️](../Code&#32;Forces/CPP/Kuriyama%20Mirai's%20Stones.cpp) | 1 | Simple implementation |
 | 11 | B - [President's Office](http://codeforces.com/contest/6/problem/B) | [✔️](../Code&#32;Forces/CPP/President's%20Office.cpp) | 1 | Simple implementation |
 | 12 | B - [Fence](http://codeforces.com/contest/363/problem/B) | [✔️](../Code&#32;Forces/CPP/Fence.cpp) | 1 | Cumulative Sum |
-| 13 | B - [Lovely Palindromes](http://codeforces.com/contest/688/problem/B) | :x: | - | - |
-| 14 | B - [Sort the Array](http://codeforces.com/contest/451/problem/B) | :x: | - | - |
+| 13 | B - [Lovely Palindromes](http://codeforces.com/contest/688/problem/B) | [✔️](../Code&#32;Forces/CPP/Lovely%20Palindromes.cpp) | 1 | Implementation |
+| 14 | B - [Sort the Array](http://codeforces.com/contest/451/problem/B) | [✔️](../Code&#32;Forces/CPP/Sort%20the%20Array.cpp) | 3 | Implementation, Fucking dump |
 | 15 | B - [Devu, the Dumb Guy](http://codeforces.com/contest/439/problem/B) | :x: | - | - |
 | 16 | B - [Summer sell-off](http://codeforces.com/contest/810/problem/B) | :x: | - | - |
 | 17 | B - [Colorful Field](http://codeforces.com/contest/79/problem/B) | :x: | - | - |
@@ -62,7 +62,7 @@
 | 58 | B - [Approximating a Constant Range](http://codeforces.com/contest/602/problem/B) | [✔️](../Code&#32;Forces/CPP/Approximating%20a%20Constant%20Range.cpp) | 2 | 2 Pointers |
 | 59 | B - [Gena's Code](http://codeforces.com/contest/614/problem/B) | [✔️](../Code&#32;Forces/CPP/Gena's%20Code.cpp) | 2 | Implementation |
 | 60 | B - [OR in Matrix](http://codeforces.com/contest/486/problem/B) | [✔️](../Code&#32;Forces/CPP/OR%20in%20Matrix.cpp) | 1 | Implementation |
-| 61 | B - [Fox And Two Dots](http://codeforces.com/contest/510/problem/B) | :x: | - | - |
+| 61 | B - [Fox And Two Dots](http://codeforces.com/contest/510/problem/B) | [✔️](../Code&#32;Forces/CPP/Fox%20And%20Two%20Dots.cpp) | 1 | DFS from each character and trying all neighboring charchters if we reach a visited character then there is a cycle |
 | 62 | B - [Routine Problem](http://codeforces.com/contest/337/problem/B) | :x: | - | - |
 | 63 | B - [Vasya and Wrestling](http://codeforces.com/contest/493/problem/B) | :x: | - | - |
 | 64 | B - [Hamming Distance Sum](http://codeforces.com/contest/608/problem/B) | :x: | - | - |

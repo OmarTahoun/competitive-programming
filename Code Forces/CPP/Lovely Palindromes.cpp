@@ -1,13 +1,14 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
+string n;
 int main(){
-	string n;
-	string res;
 	cin>>n;
-	res = n;
-	reverse(n.begin(), n.end());
-	res += n;
-	cout<<res<<endl;
+	string ans = "";
+	ans += n;
+	for(int i = n.length()-1; i>= 0; i--)
+		ans+= n[i];
+	cout<<ans<<endl;
 	return 0;
 }
