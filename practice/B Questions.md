@@ -67,7 +67,7 @@
 | 63 | B - [Vasya and Wrestling](http://codeforces.com/contest/493/problem/B) | [✔️](../Code&#32;Forces/CPP/Vasya%20and%20Wrestling.cpp) | 2 | Simple implementation |
 | 64 | B - [Hamming Distance Sum](http://codeforces.com/contest/608/problem/B) | :x: | - | - |
 | 65 | B - [Wet Shark and Bishops](http://codeforces.com/contest/621/problem/B) | [✔️](../Code&#32;Forces/CPP/Wet%20Shark%20and%20Bishops.cpp) | 2 | Map and implementation |
-| 66 | B - [Kefa and Company](http://codeforces.com/contest/580/problem/B) | :x: | - | - |
+| 66 | B - [Kefa and Company](http://codeforces.com/contest/580/problem/B) | [✔️](../Code&#32;Forces/CPP/Kefa%20and%20Company.cpp) | 2 | Binary search + comulative sum |
 | 67 | B - [Tavas and SaDDas](http://codeforces.com/contest/535/problem/B) | :x: | - | - |
 | 68 | B - [Treasure Hunt](http://codeforces.com/contest/979/problem/B) | :x: | - | - |
 | 69 | B - [Minimum Ternary String](http://codeforces.com/contest/1009/problem/B) | :x: | - | - |
