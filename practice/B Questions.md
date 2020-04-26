@@ -17,8 +17,8 @@
 | 13 | B - [Lovely Palindromes](http://codeforces.com/contest/688/problem/B) | [✔️](../Code&#32;Forces/CPP/Lovely%20Palindromes.cpp) | 1 | Implementation |
 | 14 | B - [Sort the Array](http://codeforces.com/contest/451/problem/B) | [✔️](../Code&#32;Forces/CPP/Sort%20the%20Array.cpp) | 3 | Implementation, Fucking dump |
 | 15 | B - [Devu, the Dumb Guy](http://codeforces.com/contest/439/problem/B) | [✔️](../Code&#32;Forces/CPP/Devu,%20the%20Dumb%20Guy.cpp) | 3 | simple implementation, OVERFLOW./solve.py -id 15 -l cpp |
-| 16 | B - [Summer sell-off](http://codeforces.com/contest/810/problem/B) | :x: | - | - |
-| 17 | B - [Colorful Field](http://codeforces.com/contest/79/problem/B) | :x: | - | - |
+| 16 | B - [Summer sell-off](http://codeforces.com/contest/810/problem/B) | [✔️](../Code&#32;Forces/CPP/Summer%20sell-off.cpp) | 2 | Greedy, implementation |
+| 17 | B - [Colorful Field](http://codeforces.com/contest/79/problem/B) | [✔️](../Code&#32;Forces/CPP/Colorful%20Field.cpp) | 1 | Implementation |
 | 18 | B - [Keyboard](http://codeforces.com/contest/88/problem/B) | :x: | - | - |
 | 19 | B - [Mahmoud and a Triangle](http://codeforces.com/contest/766/problem/B) | :x: | - | - |
 | 20 | B - [Find The Bone](http://codeforces.com/contest/796/problem/B) | :x: | - | - |
