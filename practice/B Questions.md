@@ -20,8 +20,8 @@
 | 16 | B - [Summer sell-off](http://codeforces.com/contest/810/problem/B) | [✔️](../Code&#32;Forces/CPP/Summer%20sell-off.cpp) | 2 | Greedy, implementation |
 | 17 | B - [Colorful Field](http://codeforces.com/contest/79/problem/B) | [✔️](../Code&#32;Forces/CPP/Colorful%20Field.cpp) | 1 | Implementation |
 | 18 | B - [Keyboard](http://codeforces.com/contest/88/problem/B) | :x: | - | - |
-| 19 | B - [Mahmoud and a Triangle](http://codeforces.com/contest/766/problem/B) | :x: | - | - |
-| 20 | B - [Find The Bone](http://codeforces.com/contest/796/problem/B) | :x: | - | - |
+| 19 | B - [Mahmoud and a Triangle](http://codeforces.com/contest/766/problem/B) | [✔️](../Code&#32;Forces/CPP/Mahmoud%20and%20a%20Triangle.cpp) | 1 | implementaiton |
+| 20 | B - [Find The Bone](http://codeforces.com/contest/796/problem/B) | [✔️](../Code&#32;Forces/CPP/Find%20The%20Bone.cpp) | 2 | implementaiton |
 | 21 | B - [King's Path](http://codeforces.com/contest/242/problem/C) | :x: | - | - |
 | 22 | B - [Students and Shoelaces](http://codeforces.com/contest/129/problem/B) | :x: | - | - |
 | 23 | B - [Dreamoon and WiFi](http://codeforces.com/contest/476/problem/B) | :x: | - | - |
