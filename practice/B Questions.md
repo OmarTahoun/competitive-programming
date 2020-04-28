@@ -24,8 +24,8 @@
 | 20 | B - [Find The Bone](http://codeforces.com/contest/796/problem/B) | [✔️](../Code&#32;Forces/CPP/Find%20The%20Bone.cpp) | 2 | implementaiton |
 | 21 | B - [King's Path](http://codeforces.com/contest/242/problem/C) | :x: | - | - |
 | 22 | B - [Students and Shoelaces](http://codeforces.com/contest/129/problem/B) | :x: | - | - |
-| 23 | B - [Dreamoon and WiFi](http://codeforces.com/contest/476/problem/B) | :x: | - | - |
-| 24 | B - [Chat Online](http://codeforces.com/contest/469/problem/B) | :x: | - | - |
+| 23 | B - [Dreamoon and WiFi](http://codeforces.com/contest/476/problem/B) | [✔️](../Code&#32;Forces/CPP/Dreamoon%20and%20WiFi.cpp) | 1 | Recursion / backtracking |
+| 24 | B - [Chat Online](http://codeforces.com/contest/469/problem/B) | [✔️](../Code&#32;Forces/CPP/Chat%20Online.cpp) | 2 | Brute Force |
 | 25 | B - [Olympic Medal](http://codeforces.com/contest/215/problem/B) | :x: | - | - |
 | 26 | B - [Filya and Homework](http://codeforces.com/contest/714/problem/B) | :x: | - | - |
 | 27 | B - [Inna and New Matrix of Candies](http://codeforces.com/contest/400/problem/B) | :x: | - | - |
