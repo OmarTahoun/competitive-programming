@@ -19,11 +19,11 @@
 | 15 | B - [Devu, the Dumb Guy](http://codeforces.com/contest/439/problem/B) | [✔️](../Code&#32;Forces/CPP/Devu,%20the%20Dumb%20Guy.cpp) | 3 | simple implementation, OVERFLOW./solve.py -id 15 -l cpp |
 | 16 | B - [Summer sell-off](http://codeforces.com/contest/810/problem/B) | [✔️](../Code&#32;Forces/CPP/Summer%20sell-off.cpp) | 2 | Greedy, implementation |
 | 17 | B - [Colorful Field](http://codeforces.com/contest/79/problem/B) | [✔️](../Code&#32;Forces/CPP/Colorful%20Field.cpp) | 1 | Implementation |
-| 18 | B - [Keyboard](http://codeforces.com/contest/88/problem/B) | :x: | - | - |
+| 18 | B - [Keyboard](http://codeforces.com/contest/88/problem/B) | [✔️](../Code&#32;Forces/CPP/Keyboard.cpp) | 4 | Implementation, didn't know that one letter can appear twice |
 | 19 | B - [Mahmoud and a Triangle](http://codeforces.com/contest/766/problem/B) | [✔️](../Code&#32;Forces/CPP/Mahmoud%20and%20a%20Triangle.cpp) | 1 | implementaiton |
 | 20 | B - [Find The Bone](http://codeforces.com/contest/796/problem/B) | [✔️](../Code&#32;Forces/CPP/Find%20The%20Bone.cpp) | 2 | implementaiton |
-| 21 | B - [King's Path](http://codeforces.com/contest/242/problem/C) | :x: | - | - |
-| 22 | B - [Students and Shoelaces](http://codeforces.com/contest/129/problem/B) | :x: | - | - |
+| 21 | B - [King's Path](http://codeforces.com/contest/242/problem/C) | [✔️](../Code&#32;Forces/CPP/King's%20Path.cpp) | 1 | BFS |
+| 22 | B - [Students and Shoelaces](http://codeforces.com/contest/129/problem/B) | [✔️](../Code&#32;Forces/CPP/Students%20and%20Shoelaces.cpp) | 2 | Implementation |
 | 23 | B - [Dreamoon and WiFi](http://codeforces.com/contest/476/problem/B) | [✔️](../Code&#32;Forces/CPP/Dreamoon%20and%20WiFi.cpp) | 1 | Recursion / backtracking |
 | 24 | B - [Chat Online](http://codeforces.com/contest/469/problem/B) | [✔️](../Code&#32;Forces/CPP/Chat%20Online.cpp) | 2 | Brute Force |
 | 25 | B - [Olympic Medal](http://codeforces.com/contest/215/problem/B) | :x: | - | - |

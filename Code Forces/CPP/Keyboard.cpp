@@ -2,17 +2,28 @@
 using namespace std;
 
 int n , m, x, q;
-map<char, pair<int, int>> keys;
+string line;
+vector<pair<int, int>> keys[26];
 vector<pair<int, int>> shifts;
+bool letters[26];
 
-double calc_dist(pair<int, int> a, pair<int, int> b){
+int calc_dist(pair<int, int> a, pair<int, int> b){
 	double x = a.first - b.first;
 	double y = a.second - b.second;
 
 	double dist = x*x + y*y;
-	dist = sqrt(dist);
 	return dist;
 }
+
+bool ok(pair<int, int> a){
+	for(auto s : shifts){
+		int dist = calc_dist(s, a);
+		if(dist <= x*x) 
+			return true;
+	}
+	return false;
+}
+
 
 int main(){
 	cin>>n>>m>>x;
@@ -23,37 +34,39 @@ int main(){
 			if(row[j] == 'S')
 				shifts.push_back({i, j});
 			else
-				keys[row[j]] = {i, j};
+				keys[row[j]-'a'].push_back({i, j});
 		}
 	}
 
-	string line;
+	for(int i = 0; i < 26; i++){
+		for(auto pos : keys[i]){
+			if(letters[i]) 
+				break;
+			letters[i] = ok(pos);
+		}
+	}
+	
+
 	cin>>q;
 	cin>>line;
-
-	bool fail = false;
 	int count = 0;
 	for(int i = 0; i < q; i++){
-		if(isupper(line[i]) && keys.find(tolower(line[i])) != keys.end()){
-			if(shifts.size() > 0){
-				double dist = 1e7;
-				for(auto x : shifts){
-					double new_dist = calc_dist(x, keys[tolower(line[i])]);
-					dist = min(dist, new_dist);
-				}
-				if(dist > x)
-					count ++;
+		if(islower(line[i])){
+			if(keys[line[i] - 'a'].empty()){
+				count = -1;
+				break;
 			}
-			else
-				fail = true;
+		}else{
+			line[i] = tolower(line[i]);
+			if(shifts.empty() || keys[tolower(line[i]) - 'a'].empty()){
+				count = -1;
+				break;
+			}
+			if(!letters[line[i] - 'a'])
+				count++;
 		}
-		else if(keys.find(line[i]) == keys.end())
-			fail = true;
 	}
 
-	if(fail)
-		cout<<-1<<endl;
-	else
-		cout<<count<<endl;
+	cout<<count<<endl;
 	return 0;
 }
